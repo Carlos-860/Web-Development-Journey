@@ -7,6 +7,8 @@ Throughout this journey we will numerous tools, languages and technologies that 
 ## Technologies we will encounter
 HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | Webpack | SCSS | Node.js | Mongo DB | Graph Ql | Express  
 
+![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
+
 ## Table Contents
 1. HTML
 2. CSS
