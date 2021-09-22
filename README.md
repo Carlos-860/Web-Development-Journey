@@ -2,7 +2,7 @@
 
 Come join me on this web development journey :airplane: as we unpack all things web :globe_with_meridians:
 
-Throughout this journey we will numerous tools, languages and technologies that make it possible to create simple landing page websites to more complex Ecommerce Store Sites.
+Throughout this journey we will encounter numerous tools, languages and technologies that make it possible to create simple landing page websites to more complex Ecommerce Store Sites.
 
 ## Technologies we will encounter
 HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | Webpack | SCSS | Node.js | Mongo DB | Graph Ql | Express | PHP | MySQL 
@@ -41,3 +41,4 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 ### Resources
 [w3schools](https://www.w3schools.com/)
+[DevDocs API Documentation](https://devdocs.io/)
