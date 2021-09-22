@@ -37,7 +37,23 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 - HTML is the most basic building block of the web.
 - HTML stands for Hyper Text Markup language and it describes the structure of a web page.
 - HTML consists of a series of elements which tell browser how to display the content.
+- HyperText refers to links that connect web pages to one another.
+- HTML also uses markup to explain how display content such as text, images and lists in a web browser.
+- HTML element tags are case insensitive.
 
+Basic HTML Page
+```
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Web Page Title</title>
+	</head>
+	<body>
+		<h1>Web Development</h1>
+		<p>My very first HTML document!</p>
+	</body>
+</html>
+```
 
 ### Resources
 [w3schools](https://www.w3schools.com/)
