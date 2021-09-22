@@ -41,4 +41,6 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 ### Resources
 [w3schools](https://www.w3schools.com/)
+
+
 [DevDocs API Documentation](https://devdocs.io/)
