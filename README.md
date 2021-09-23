@@ -61,9 +61,11 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 `<DOCTYPE html>`
 
 
-The DOCTYPE tag defines that this document is an HTML5 docuemnt.
+The `<DOCTYPE html>` tag defines that the document is an HTML5 document.
 
 #### html tag
+
+The `<html></html>` tag refers to the root element of an HTML page. 
 
 
 
