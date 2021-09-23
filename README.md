@@ -11,6 +11,8 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 ## Table Contents
 1. HTML
+
+
 1.1 Structure of the HTML tag / element
 2. CSS
 3. Bootstrap
@@ -27,8 +29,6 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 14. Mongo DB
 15. Graph Ql
 
-- Resources
-
 
 ### HTML
 
@@ -44,6 +44,8 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 - HTML elements are defined by a start tag, content and an end tag.
 - ! Exception other tags such as the <br> <img> and <input> tags do not have an end tag.
 - ! Note HTML elements and tags will be used interchangeably from this point forward.
+
+![orange plastic blocks on white surface](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
 #### Basic HTML Page
 ```
@@ -98,9 +100,13 @@ The `<title>` tag displays its content inside a browsers title bar or page tab.
 The `<body>` tag contains all the visible content that displays on the web page.
 
 
-
-
 ### Resources
+
+#### Coding Resources
 - [w3schools](https://www.w3schools.com/)
 - [DevDocs API Documentation](https://devdocs.io/) => Collection of all programming languages documentation and more...
 - [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets
+
+#### Image Resources
+- [Unsplash](https://unsplash.com/)
+
