@@ -108,5 +108,5 @@ The `<body>` tag contains all the visible content that displays on the web page.
 - [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets
 
 #### Image Resources
-- [Unsplash](https://unsplash.com/)
+- [Unsplash](https://unsplash.com/) => Royalty Free stock stock images and photos.
 
