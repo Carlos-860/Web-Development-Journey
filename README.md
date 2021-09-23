@@ -41,7 +41,8 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 - HTML also uses markup to explain how display content such as text, images and lists in a web browser.
 - HTML element tags are case insensitive.
 - HTML elements are defined by a start tag, content and an end tag.
-- !Exception other tags such as the <br> <img> and <input> tags do not have an end tag.
+- ! Exception other tags such as the <br> <img> and <input> tags do not have an end tag.
+- ! Note EHTML elemnts and tags will be used interchangeably from this point forward.
 
 #### Basic HTML Page
 ```
@@ -57,6 +58,8 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 </html>
 ```
 
+#### Structure of a HTML tag/element
+
 #### DOCTYPE tag
 `<DOCTYPE html>`
 
@@ -64,8 +67,10 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 The `<DOCTYPE html>` tag defines that the document is an HTML5 document.
 
 #### html tag
+`<html></html>`
 
-The `<html></html>` tag refers to the root element of an HTML page. 
+
+The `<html>` tag refers to the root element of an HTML page. 
 
 
 
