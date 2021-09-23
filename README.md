@@ -40,8 +40,10 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 - HyperText refers to links that connect web pages to one another.
 - HTML also uses markup to explain how display content such as text, images and lists in a web browser.
 - HTML element tags are case insensitive.
+- HTML elements are defined by a start tag, content and an end tag.
+- !Exception other tags such as the <br> <img> and <input> tags do not have an end tag.
 
-Basic HTML Page
+#### Basic HTML Page
 ```
 <DOCTYPE html>
 <html>
@@ -55,8 +57,18 @@ Basic HTML Page
 </html>
 ```
 
+#### DOCTYPE tag
+`<DOCTYPE html>`
+
+
+The DOCTYPE tag defines that this document is an HTML5 docuemnt.
+
+#### html tag
+
+
+
+
 ### Resources
-[w3schools](https://www.w3schools.com/)
-
-
-[DevDocs API Documentation](https://devdocs.io/)
+- [w3schools](https://www.w3schools.com/)
+- [DevDocs API Documentation](https://devdocs.io/) => Collection of all programming languages documentation and more...
+- [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets
