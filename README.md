@@ -11,6 +11,7 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 ## Table Contents
 1. HTML
+1.1 Structure of the HTML tag / element
 2. CSS
 3. Bootstrap
 4. Tailwind CSS
@@ -42,7 +43,7 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 - HTML element tags are case insensitive.
 - HTML elements are defined by a start tag, content and an end tag.
 - ! Exception other tags such as the <br> <img> and <input> tags do not have an end tag.
-- ! Note EHTML elemnts and tags will be used interchangeably from this point forward.
+- ! Note HTML elements and tags will be used interchangeably from this point forward.
 
 #### Basic HTML Page
 ```
@@ -60,17 +61,41 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 #### Structure of a HTML tag/element
 
-#### DOCTYPE tag
+#### List of HTML Tags
+
+##### DOCTYPE tag
 `<DOCTYPE html>`
 
 
 The `<DOCTYPE html>` tag defines that the document is an HTML5 document.
 
-#### html tag
+
+##### html tag
 `<html></html>`
 
 
-The `<html>` tag refers to the root element of an HTML page. 
+The `<html>` tag refers to the root element of an HTML page.
+
+
+##### head tag
+`<head></head>`
+
+
+The `<head>` tag contains meta information about the HTML page.
+
+
+##### title tag
+`<title></title>`
+
+
+The `<title>` tag displays its content inside a browsers title bar or page tab.
+
+
+##### body tag
+`<body></body>`
+
+
+The `<body>` tag contains all the visible content that displays on the web page.
 
 
 
