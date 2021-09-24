@@ -11,9 +11,8 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 ## Table Contents
 1. HTML
-
-
-1.1 Structure of the HTML tag / element
+   - Structure of the HTML tag / element
+   1.1 Structure of the HTML tag / element
 2. CSS
 3. Bootstrap
 4. Tailwind CSS
