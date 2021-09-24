@@ -2,26 +2,139 @@
 <html>
     <head>
         <title>HTML Documentation Web Page</title>
+
+        <!-- Google Fonts: Import Link -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet"> 
+
+        <style>
+            /* RESET SCRIPT - START */
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            *, *::before, *::after {
+                box-sizing: content-box;
+            }
+            body {
+                font-family: 'Nunito', sans-serif;;
+            }
+            ul {
+                list-style-type: none;
+            }
+            a:link, 
+            a:visited,
+            a:active {
+                color: #0505a0;
+                text-decoration: none;
+            }
+
+            a:hover{
+                color: #0505a0b6;
+            }
+
+            /* RESET SCRIPT - END */
+
+            body {
+                min-height: 200vh;
+            }
+
+            aside {
+                float: left;
+                width: 300px;
+                height: 200vh;
+                background-color: #eee;
+                padding: 2rem;
+                margin-right: 2rem;
+            }
+            aside ul li {
+                margin-top: 1rem;
+            }
+            main {
+                width: calc(100% - 300px);
+
+            }
+
+        </style>
     </head>
 
     <body>
 
         <aside>
+            <h1>HTML Guide</h1>
+
+            <ul>
+                <li>
+                    <a href="#getting-started">Getting Started</a>
+                </li>
+
+                <li>
+                    <a href="#basic-element-structure">Basic Element Structure</a>
+                </li>
+
+                <li>
+                    <a href="#basic-page-structure">Basic Page Structure</a>
+                </li>
+
+                <li>
+                    <a href="#headings">Headings</a>
+                </li>
+            </ul>
 
         </aside>
 
         <main>
             <section>
-                <h1>Getting Started</h1>
-
+                <br>
+                <h2 id="getting-started">Getting Started</h1>
+                <br>
                 <p>The following documentation contains information about HTML.</p>
+                <br>
+                <p>If you’re new to HTML, check out <a href="https://www.w3schools.com/">w3schools</a> for a quick introduction to the most important concepts and features of the HTML.</p>
+                <br>
 
-                <p>If you’re new to HTML, check out <a href="https://www.w3schools.com/">w3schools></a> for a quick introduction to the most important concepts and features of the HTML.
+                <h2 id="basic-element-structure">Basic Element Structure</h2>
+                <br>
+                <p>
+                    <code>&lt;tagname&gt;Content&lt;/tagname&gt;</code>
+                </p>
+                <br>
 
-                <h2>Basic Element Structure</h2>
+                <h2 id="basic-page-structure">Basic Page Structure</h2>
+                <br>
+                <p>
+<pre>
+<code>
+&lt;!DOCTYPE html&gt;
 
-                <code>&lt;tagname&gt;Content&lt;/tagname&gt;</code>
+&lt;html&gt;
 
+    &lt;head&gt;
+
+        &lt;!-- Additional Content that nots visible for clients but useful for search Engines. --&gt;
+
+    &lt;/head&gt;
+
+    &lt;body&gt;
+
+        &lt;!-- Visible Content wwhich will be displayed to the client. --&gt;
+
+    &lt;/body&gt;
+
+&lt;/html&gt;
+</code>
+</pre>
+                </p>
+                <br>
+
+                <h2 id="headings">Headings</h2>
+                <br>
+                <p>Headings help to define a documents structure and make it easier to read.</p> 
+                <br>
+                <p>They are used by search engines to catalog the structure and content of a web page. Heading tags run from the most important &lt;h1&gt; to the least &lt;h6&gt; and include a start and end tag.</p>
+
+                
             </section>
         </main>
     
