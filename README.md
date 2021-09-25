@@ -59,8 +59,7 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 </details>
 
-### 1 HTML
-----------
+## 1 HTML
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
@@ -70,7 +69,7 @@ HTML (**Hyper Text Markup Language**) is the most basic building block of the we
 
 It consists of a number of **elements / tags** (used interchangeably) which tell browsers how to display the content.
 
-#### Structure of HTML tag
+### Structure of HTML tag
 
 Generally, HTML tags are defined by a start tag, some content and an end tag.
 
@@ -82,7 +81,7 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 ![orange plastic blocks on white surface](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
-#### Basic HTML Page
+### Basic HTML Page
 
 ```html
 <DOCTYPE html>
@@ -97,33 +96,33 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 </html>
 ```
 
-#### List of HTML Tags
+### List of HTML Tags
 
-##### DOCTYPE tag
+#### DOCTYPE tag
 
 `<DOCTYPE html>`
 
 The `<DOCTYPE html>` tag defines that the document is an HTML5 document.
 
-##### html tag
+#### html tag
 
 `<html></html>`
 
 The `<html>` tag refers to the root element of an HTML page.
 
-##### head tag
+#### head tag
 
 `<head></head>`
 
 The `<head>` tag contains meta information about the HTML page.
 
-##### title tag
+#### title tag
 
 `<title></title>`
 
 The `<title>` tag displays its content inside a browsers title bar or page tab.
 
-##### body tag
+#### body tag
 
 `<body></body>`
 
@@ -145,18 +144,18 @@ The `<body>` tag contains all the visible content that displays on the web page.
 Heading tags 
 
 
-### Resources
+## Resources
 
-#### Coding Resources
+### Coding Resources
 
 - [w3schools](https://www.w3schools.com/)
 - [DevDocs API Documentation](https://devdocs.io/) => Collection of all programming languages documentation and more...
 - [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets
 
-#### Image Resources
+### Image Resources
 
 - [Unsplash](https://unsplash.com/) => Royalty Free stock stock images and photos.
 
-#### Font Resources
+### Font Resources
 
 - [Google Fonts](https://fonts.google.com/) => A library of free and open source font families.
