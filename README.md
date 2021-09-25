@@ -98,10 +98,8 @@ __Exception__ certain HTML tags do not have a closing tag and hence, are referre
 </html>
 ```
 
-<br />
 ### List of HTML Tags
 
-<br />
 #### DOCTYPE tag
 
 `<DOCTYPE html>`
