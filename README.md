@@ -6,7 +6,7 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 ## Technologies we will encounter
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -181,6 +181,5 @@ __Note__ every web page needs only one `<h1>` tag since search engines may penal
 
 ![LinkedIn][linkedin-shield][https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/]
 
-<a href="mailto:carlostimotheus5@gmail.com">
 ![Ask me anything badge](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-</a>
+![Repository Commits](https://img.shields.io/github/commits-since/{Carlos-860}/{Web-Development-Journey}/{2.11.0}.svg)
