@@ -13,24 +13,51 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 <details>
 <summary>Table Contents</summary>
 
-+ 1. HTML
-+ 2 CSS
-3 Bootstrap
-</details>
+1. HTML
+
+
+2. CSS
+
 
 3. Bootstrap
+
+
 4. Tailwind CSS
+
+
 5. SCSS
+
+
 6. JS
+
+
 7. JSON
+
+
 8. NPM
+
+
 9. Vue
+
+
 10. React
+
+
 11. Webpack
+
+
 12. Node.js
+
+
 13. Express
+
+
 14. Mongo DB
+
+
 15. Graph Ql
+
+</details>
 
 ### 1 HTML
 
