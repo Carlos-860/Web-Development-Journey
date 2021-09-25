@@ -32,16 +32,19 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
-- HTML is standard markup langauge for web pages.
-- HTML is the most basic building block of the web.
-- HTML stands for Hyper Text Markup language and it describes the structure of a web page.
-- HTML consists of a series of elements which tell browser how to display the content.
-- HyperText refers to links that connect web pages to one another.
-- HTML also uses markup to explain how display content such as text, images and lists in a web browser.
-- HTML element tags are case insensitive.
-- HTML elements are defined by a start tag, content and an end tag.
-- ! Exception other tags such as the <br> <img> and <input> tags do not have an end tag.
-- ! Note HTML elements and tags will be used interchangeably from this point forward.
+HTML (**Hyper Text Markup Language**) is the most basic building block of the web. It is responsible for describing the **structure** of **web pages**. **Hyper text** refers to links that connect web pages to one another. **Markup** explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
+
+It consists of a number of **elements / tags** (used interchangeably) which tell browsers how to display the content.
+
+#### Structure of HTML tag
+
+Generally, HTML tags are defined by a start tag, some content and an end tag.
+
+`<tagname>content</tagname>`
+
+**Exception!** Certain HTML tags do not have a closing tag and hence, are reffered to as self-enclosing tags.
+
+`<tagname />`
 
 ![orange plastic blocks on white surface](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
@@ -59,13 +62,6 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 	</body>
 </html>
 ```
-
-#### Structure of a HTML tag/element
-
-`<tagname>content</tagname>`
-
-! Exceptions - cetian HTML tags do not have a closing tag an instead are refered to as self-enclosing tags.
-eg. `<img /> <br /> <input />`
 
 #### List of HTML Tags
 
