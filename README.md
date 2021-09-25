@@ -163,3 +163,6 @@ __Note__ every web page needs only one `<h1>` tag since search engines may penal
 ### Font Resources
 
 - [Google Fonts](https://fonts.google.com/) => A library of free and open source font families.
+
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/]
