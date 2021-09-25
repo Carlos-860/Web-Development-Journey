@@ -32,7 +32,9 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
-HTML (**Hyper Text Markup Language**) is the most basic building block of the web. It is responsible for describing the **structure** of **web pages**. **Hyper text** refers to links that connect web pages to one another. **Markup** explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
+HTML (**Hyper Text Markup Language**) is the most basic building block of the web. It is responsible for describing the **structure** of **web pages**. 
+
+**Hyper text** refers to links that connect web pages to one another. **Markup** explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
 
 It consists of a number of **elements / tags** (used interchangeably) which tell browsers how to display the content.
 
@@ -94,6 +96,12 @@ The `<title>` tag displays its content inside a browsers title bar or page tab.
 `<body></body>`
 
 The `<body>` tag contains all the visible content that displays on the web page.
+
+#### heading tag(s)
+`<h1>Heading 1</h1>`
+
+`<h2>Heading 2</h2>`
+
 
 ### Resources
 
