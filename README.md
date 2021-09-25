@@ -10,10 +10,12 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 ![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
 
-## Table Contents
+<details>
+<summary>## Table Contents</summary>
 
-1. HTML
-2. CSS
++ 1. HTML
++ 2. CSS
+
 3. Bootstrap
 4. Tailwind CSS
 5. SCSS
@@ -101,6 +103,16 @@ The `<body>` tag contains all the visible content that displays on the web page.
 `<h1>Heading 1</h1>`
 
 `<h2>Heading 2</h2>`
+
+`<h3>Heading 3</h3>`
+
+`<h4>Heading 4</h4>`
+
+`<h5>Heading 5</h5>`
+
+`<h6>Heading 6</h6>`
+
+Heading tags 
 
 
 ### Resources
