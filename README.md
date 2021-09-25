@@ -59,7 +59,7 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 </details>
 
-## 1 HTML
+## 1. HTML
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
@@ -75,11 +75,13 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 `<tagname>content</tagname>`
 
-**Exception!** Certain HTML tags do not have a closing tag and hence, are reffered to as self-enclosing tags.
+__Exception__ certain HTML tags do not have a closing tag and hence, are referred to as self-enclosing tags.
 
 `<tagname />`
 
+<p align="center">
 ![orange plastic blocks on white surface](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+</p>
 
 ### Basic HTML Page
 
@@ -141,7 +143,9 @@ The `<body>` tag contains all the visible content that displays on the web page.
 
 `<h6>Heading 6</h6>`
 
-Heading tags 
+Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.
+
+__Note__ every web page needs only one `<h1>` tag since search engines may penalize you for overusing it.
 
 
 ## Resources
