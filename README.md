@@ -10,7 +10,7 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 
 ![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
 
-<details>
+<details open>
 <summary>Table Contents</summary>
 
 1. HTML
@@ -60,6 +60,7 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 </details>
 
 ### 1 HTML
+***
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
@@ -83,7 +84,7 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 #### Basic HTML Page
 
-```
+```html
 <DOCTYPE html>
 <html>
 	<head>
