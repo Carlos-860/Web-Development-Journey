@@ -6,7 +6,7 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 ## Technologies we will encounter
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white | https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | Webpack | SCSS | Node.js | Mongo DB | Graph Ql | Express | PHP | MySQL
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) | ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | Webpack | SCSS | Node.js | Mongo DB | Graph Ql | Express | PHP | MySQL
 
 ![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
 
