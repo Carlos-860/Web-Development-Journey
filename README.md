@@ -11,10 +11,12 @@ HTML | CSS | JS | React | Vue | JSON | Tailwind CSS | Bootstrap | NPM | Git | We
 ![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
 
 <details>
-<summary>## Table Contents</summary>
+<summary>Table Contents</summary>
 
 + 1. HTML
-+ 2. CSS
++ 2 CSS
+3 Bootstrap
+</details>
 
 3. Bootstrap
 4. Tailwind CSS
