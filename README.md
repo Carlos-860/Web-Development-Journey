@@ -162,6 +162,22 @@ Heading tags are defined from the most important heading `<h1>` to the least imp
 
 __Note__ every web page needs only one `<h1>` tag since search engines may penalize you for overusing it.
 
+#### paragraph tag
+`<p></p>`
+
+Paragraph tags are defined by `<p>` element.
+
+#### horizontal rule tag
+`<hr />` OR `<hr>`
+
+The horizontal rule tag represents a break in the in the HTML page by displaying a horizontal rule.
+
+#### line break tag
+`<br>` OR `<br />`
+
+The line break tag represents line break (new line).
+
+ 
 
 ## Resources
 
