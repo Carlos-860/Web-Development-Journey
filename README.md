@@ -24,6 +24,7 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 ![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
 
+
 <details>
 <summary>Table Contents</summary>
 
@@ -178,8 +179,3 @@ __Note__ every web page needs only one `<h1>` tag since search engines may penal
 
 - [Google Fonts](https://fonts.google.com/) => A library of free and open source font families.
 
-
-![LinkedIn][linkedin-shield][https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/]
-
-![Ask me anything badge](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-![Repository Commits](https://img.shields.io/github/commits-since/{Carlos-860}/{Web-Development-Journey}/{2.11.0}.svg)
