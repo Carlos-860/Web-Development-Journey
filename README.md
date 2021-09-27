@@ -177,7 +177,15 @@ The horizontal rule tag represents a break in the in the HTML page by displaying
 
 The line break tag represents line break (new line).
 
- 
+#### Bold tag
+`<b></b>`
+
+The bold tag merely defines bold text.
+
+#### strong tag
+`<strong></strong>`
+
+The strong tag defines its contents with importance as it is ussually also displayed in bold. 
 
 ## Resources
 
