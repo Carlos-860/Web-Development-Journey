@@ -87,6 +87,8 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 
 ### Structure of HTML tag
 
+-------------------------
+
 Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 `<tagname>content</tagname>`
