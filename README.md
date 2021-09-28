@@ -90,19 +90,22 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 `<tagname>content</tagname>`
 
-Example: 
+- Example
 ```html
 <p>This is a paragraph tag.</p>
 ```
+<br>
 
 __Exception__ certain HTML tags do not have a closing tag and hence, are referred to as self-enclosing tags.
 
 `<tagname />`
 
-Example: 
+- Example: 
 ```html
 <br />
 ```
+
+<hr />
 
 <p align="center">
 	<img src="https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="orange plastic blocks on white surface" />
