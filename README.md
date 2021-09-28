@@ -172,30 +172,50 @@ Paragraph tags are defined by `<p>` element.
 
 The horizontal rule tag represents a break in the in the HTML page by displaying a horizontal rule.
 
-#### line break tag
+#### Line Break Tag
 `<br>` OR `<br />`
 
 The line break tag represents line break (new line).
+
 
 #### Bold Tag
 `<b></b>`
 
 The bold tag merely defines bold text.
 
+
 #### Strong Tag
 `<strong></strong>`
 
 The strong tag defines its contents with importance as it is ussually also displayed in bold.
 
-#### Italic tag
+
+#### Italic Tag
 `<i></i>`
 
 The italic tag merely defines italized text.
+
 
 #### Emphasized Tag
 `<em></em>`
 
 The emphasized tag defines emphasized text and it is usually displayed in italic.
+
+
+#### Small Tag
+`<small></small>`
+
+The small tag defiens smaller text.
+
+
+#### Mark Tag
+`<mark></mark>`
+
+The mark tag defines text or content that should be highlighted.
+
+
+
+
 
 ## Resources
 
