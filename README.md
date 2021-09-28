@@ -74,15 +74,17 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 </details>
 
-## 1. HTML
+## HTML
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
 HTML (**Hyper Text Markup Language**) is the most basic building block of the web. It is responsible for describing the **structure** of **web pages**. 
 
-**Hyper text** refers to links that connect web pages to one another. **Markup** explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
+[Hyper text](https://devdocs.io/html/) refers to links that connect web pages to one another. [Markup](https://devdocs.io/html/) explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
 
 It consists of a number of **elements / tags** (used interchangeably) which tell browsers how to display the content.
+
+<br />
 
 ### Structure of HTML tag
 
@@ -94,7 +96,8 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 ```html
 <p>This is a paragraph tag.</p>
 ```
-<br>
+
+<br />
 
 __Exception__ certain HTML tags do not have a closing tag and hence, are referred to as self-enclosing tags.
 
@@ -105,7 +108,7 @@ __Exception__ certain HTML tags do not have a closing tag and hence, are referre
 <br />
 ```
 
-<hr />
+<br />
 
 <p align="center">
 	<img src="https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="orange plastic blocks on white surface" />
