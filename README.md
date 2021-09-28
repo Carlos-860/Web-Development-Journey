@@ -90,9 +90,19 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 `<tagname>content</tagname>`
 
+Example: 
+```html
+<p>This is a paragraph tag.</p>
+```
+
 __Exception__ certain HTML tags do not have a closing tag and hence, are referred to as self-enclosing tags.
 
 `<tagname />`
+
+Example: 
+```html
+<br />
+```
 
 <p align="center">
 	<img src="https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHRtbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="orange plastic blocks on white surface" />
@@ -177,38 +187,30 @@ The horizontal rule tag represents a break in the in the HTML page by displaying
 
 The line break tag represents line break (new line).
 
-
 #### Bold Tag
 `<b></b>`
 
 The bold tag merely defines bold text.
-
 
 #### Strong Tag
 `<strong></strong>`
 
 The strong tag defines its contents with importance as it is ussually also displayed in bold.
 
-
 #### Italic Tag
 `<i></i>`
 
 The italic tag merely defines italized text.
-
 
 #### Emphasized Tag
 `<em></em>`
 
 The emphasized tag defines emphasized text and it is usually displayed in italic.
 
-
 #### Small Tag
 `<small></small>`
 
 The small tag defiens smaller text.
-
-
-
 
 #### Mark Tag
 `<mark></mark>`
