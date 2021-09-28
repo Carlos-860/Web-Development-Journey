@@ -177,15 +177,25 @@ The horizontal rule tag represents a break in the in the HTML page by displaying
 
 The line break tag represents line break (new line).
 
-#### Bold tag
+#### Bold Tag
 `<b></b>`
 
 The bold tag merely defines bold text.
 
-#### strong tag
+#### Strong Tag
 `<strong></strong>`
 
-The strong tag defines its contents with importance as it is ussually also displayed in bold. 
+The strong tag defines its contents with importance as it is ussually also displayed in bold.
+
+#### Italic tag
+`<i></i>`
+
+The italic tag merely defines italized text.
+
+#### Emphasized Tag
+`<em></em>`
+
+The emphasized tag defines emphasized text and it is usually displayed in italic.
 
 ## Resources
 
