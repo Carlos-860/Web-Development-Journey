@@ -267,12 +267,13 @@ The address tag defines contact information which is usually rendered in italics
 
 The citation tag defines a reference to a cited creative work which is usually rendered in italic.
 
-<br>
 
-#### Bi-Directional Overide
-`<bdo></bdo>`
+<details>
+<summary><bdo></bdo></summary>
+**Bi-Directional Overide**
 
 The bi-directional overide tag is used to overide the default text direction.
+</details>
 
 
 
