@@ -269,14 +269,16 @@ The citation tag defines a reference to a cited creative work which is usually r
 
 
 <details>
-<summary>
-	<code>
-		&lt;bdo&gt; &lt/bdo&gt;
-	</code>
-</summary>
-<b>Bi-Directional Overide</b>
+	<summary>
+		<code>
+			&lt;bdo&gt;&lt/bdo&gt;
+		</code>
+	</summary>
 
-The bi-directional overide tag is used to overide the default text direction.
+	<ul>
+		<li><b>Bi-Directional Overide</b></li>
+		<li>The bi-directional overide tag is used to overide the default text direction.</li>
+	</ul>
 </details>
 
 
