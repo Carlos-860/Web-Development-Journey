@@ -262,9 +262,16 @@ The abbreviation tag defines an abbreviation or an acronym.
 
 The address tag defines contact information which is usually rendered in italics.
 
-#### Citation Tag `<cite></cite>`
+#### Citation Tag
+`<cite></cite>`
 
 The citation tag defines a reference to a cited creative work which is usually rendered in italic.
+
+#### Bi-Directional Overide
+`<bdo></bdo>`
+
+The bi-directional overide tag is used to overide the default text direction.
+
 
 
 ## Resources
