@@ -267,6 +267,8 @@ The address tag defines contact information which is usually rendered in italics
 
 The citation tag defines a reference to a cited creative work which is usually rendered in italic.
 
+<br>
+
 #### Bi-Directional Overide
 `<bdo></bdo>`
 
