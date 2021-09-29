@@ -242,7 +242,29 @@ The subscript tag defines subscript text which displays half a character below t
 
 The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
 
+#### Blockquote Tag
+`<blockquote></blockquote>`
 
+The blockquote tag defines a section of quoted text from another source which is usually indented.
+
+#### Quote Tag
+`<q></q>`
+
+The quote tag defines a short qoutation which is usually enclosed with quotation marks.
+
+#### Abbreviation Tag
+`<abbr></abbr>`
+
+The abbreviation tag defines an abbreviation or an acronym.
+
+#### Address Tag
+`<address></address>`
+
+The address tag defines contact information which is usually rendered in italics.
+
+#### Citation Tag `<cite></cite>`
+
+The citation tag defines a reference to a cited creative work which is usually rendered in italic.
 
 
 ## Resources
