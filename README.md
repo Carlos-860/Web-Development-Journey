@@ -80,14 +80,12 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
 
-[Hyper text](https://devdocs.io/html/) refers to links that connect web pages to one another. [Markup](https://devdocs.io/html/) explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
+[Hyper text](https://devdocs.io/html/ "Brief HTML Definition") refers to links that connect web pages to one another. [Markup](https://devdocs.io/html/) explains to the clients browser how content should be displayed whether as a paragraph, list item or image.
 
 It consists of a number of **elements** (used interchangeably with tags) which [tell browsers how to display the content](https://www.w3schools.com/html/html_intro.asp).
 
 
 ### Structure of HTML tag
-
--------------------------
 
 Generally, HTML tags are defined by a start tag, some content and an end tag.
 
@@ -104,7 +102,7 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 `<tagname />`
 
-- Example: 
+- Example 
 ```html
 <br />
 ```
@@ -224,6 +222,25 @@ The small tag defiens smaller text.
 
 The mark tag defines text or content that should be highlighted.
 
+#### Deleted Tag
+`<del></del>`
+
+The deleted tag defines deleted text which is usually displayed with a line through it.
+
+#### Inserted Tag
+`<ins></ins>`
+
+The inserted tag defines inserted text which is usually underlined.
+
+#### Subscript Tag
+`<sub></sub>`
+
+The subscript tag defines subscript text which displays half a character below the normal line (used for chemical formulations).
+
+#### Superscript Tag
+`<sup></sup>`
+
+The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
 
 
 
