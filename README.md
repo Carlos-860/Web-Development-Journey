@@ -276,6 +276,7 @@ The citation tag defines a reference to a cited creative work which is usually r
 </summary>
 <ul>
 <li><b>Bi-Directional Overide</b></li>
+<li></li>
 <li>The bi-directional overide tag is used to overide the default text direction.</li>
 </ul>
 </details>
