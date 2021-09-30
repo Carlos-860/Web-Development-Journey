@@ -2,34 +2,23 @@
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
+HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
+
 <details>
-<summary>List of HTML Tags</summary>
+<summary>Table of Contents</summary>
 
-1. DOCTYPE
-
-
-2. html
+1. Structure of HTML Tags
 
 
-3. head
+2. Structure of HTML Attributes
 
 
-4. body
-
-
-5. heading 
-
-
-6. paragraph
-
-
-7. horizontal rule
-
-
-8. line break
+3. List of HTML Tags
 
 
 </details>
+
+
 
 ## List of HTML Tags
 
@@ -163,9 +152,12 @@ The quote tag defines a short qoutation which is usually enclosed with quotation
 The abbreviation tag defines an abbreviation or an acronym.
 
 ### Address Tag
-`<address></address>`
-
+<details>
+<summary>
+<code>&lt;address&gt;&lt/address&gt;</code>
+</summary>
 The address tag defines contact information which is usually rendered in italics.
+</details>
 
 ### Citation Tag
 <details>
