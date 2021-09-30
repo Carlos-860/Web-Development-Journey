@@ -84,27 +84,7 @@ HTML (**Hyper Text Markup Language**) is the most basic [building block of the w
 It consists of a number of **elements** (used interchangeably with tags) which [tell browsers how to display the content](https://www.w3schools.com/html/html_intro.asp).
 
 
-### Structure of HTML tag
 
-Generally, HTML tags are defined by a start tag, some content and an end tag.
-
-`<tagname>content</tagname>`
-
-- Example
-```html
-<p>This is a paragraph tag.</p>
-```
-
-<br />
-
-*Exception* certain HTML tags do not have a closing tag and hence, are referred to as [empty tags](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
-
-`<tagname />`
-
-- Example 
-```html
-<br />
-```
 
 <br />
 

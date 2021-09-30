@@ -18,6 +18,29 @@ HTML (**Hyper Text Markup Language**) is the most basic [building block of the w
 
 </details>
 
+### Structure of HTML tag
+
+Generally, HTML tags are defined by a start tag, some content and an end tag.
+
+`<tagname>content</tagname>`
+
+- Example
+```html
+<p>This is a paragraph tag.</p>
+```
+
+<br />
+
+*Exception* certain HTML tags do not have a closing tag and hence, are referred to as [empty tags](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
+
+`<tagname />`
+
+- Example 
+```html
+<br />
+```
+
+### Structure of HTML Attributes
 
 
 ## List of HTML Tags
@@ -159,20 +182,20 @@ The abbreviation tag defines an abbreviation or an acronym.
 The address tag defines contact information which is usually rendered in italics.
 </details>
 
-### Citation Tag
-<details>
-<summary>
-<code>&lt;cite&gt;&lt/cite&gt;</code>
-</summary>
-The citation tag defines a reference to a cited creative work which is usually rendered in italic.
-</details>
-
 ### Bi-Directional Tag
 <details>
 <summary>
 <code>&lt;bdo&gt;&lt/bdo&gt;</code>
 </summary>
 The bi-directional overide tag is used to overide the default text direction.
+</details>
+
+### Citation Tag
+<details>
+<summary>
+<code>&lt;cite&gt;&lt/cite&gt;</code>
+</summary>
+The citation tag defines a reference to a cited creative work which is usually rendered in italic.
 </details>
 
 ## HTML Resources & Tools
