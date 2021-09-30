@@ -1,4 +1,5 @@
-# Our Web Development Journey
+# Our Web Development Journey <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/fcc5a6bceb0-4281-469d-8d1a-f71ba683fd0d?style=plastic">
+
 
 Come join me on this web development journey :airplane: as we unpack all things web :globe_with_meridians:
 
