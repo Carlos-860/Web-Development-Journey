@@ -281,9 +281,9 @@ The address tag defines contact information which is usually rendered in italics
 &lt;bdo&gt;&lt/bdo&gt;
 </code>
 </summary>
-<b>Bi-Directional Overide</b>
+	<b>Bi-Directional Overide</b>
 
-The bi-directional overide tag is used to overide the default text direction.
+	The bi-directional overide tag is used to overide the default text direction.
 </details>
 
 
