@@ -2,7 +2,34 @@
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
+<details>
+<summary>List of HTML Tags</summary>
 
+1. DOCTYPE
+
+
+2. html
+
+
+3. head
+
+
+4. body
+
+
+5. heading 
+
+
+6. paragraph
+
+
+7. horizontal rule
+
+
+8. line break
+
+
+</details>
 
 ## List of HTML Tags
 
@@ -12,11 +39,13 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 The `<DOCTYPE html>` tag defines that the document is an HTML5 document.
 
+
 ### html tag
 
 `<html></html>`
 
 The `<html>` tag refers to the root element of an HTML page.
+
 
 ### head tag
 
@@ -137,3 +166,26 @@ The abbreviation tag defines an abbreviation or an acronym.
 `<address></address>`
 
 The address tag defines contact information which is usually rendered in italics.
+
+<details>
+<summary>
+<code>
+&lt;cite&gt;&lt/cite&gt;
+</code>
+</summary>
+<ul>
+<li><b>Citation Tag</b></li>
+<li>The citation tag defines a reference to a cited creative work which is usually rendered in italic.</li>
+</ul>
+</details>
+
+
+<details>
+<summary>
+<code>
+&lt;bdo&gt;&lt/bdo&gt;
+</code>
+</summary>
+<b>Bi-Directional Overide</b>
+<p>The bi-directional overide tag is used to overide the default text direction.</p>
+</details>

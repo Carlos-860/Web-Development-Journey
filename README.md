@@ -127,31 +127,11 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 </html>
 ```
 
+-
 
+## CSS
 
-<details>
-<summary>
-<code>
-&lt;cite&gt;&lt/cite&gt;
-</code>
-</summary>
-<ul>
-<li><b>Citation Tag</b></li>
-<li>The citation tag defines a reference to a cited creative work which is usually rendered in italic.</li>
-</ul>
-</details>
-
-
-<details>
-<summary>
-<code>
-&lt;bdo&gt;&lt/bdo&gt;
-</code>
-</summary>
-<b>Bi-Directional Overide</b>
-<p>The bi-directional overide tag is used to overide the default text direction.</p>
-</details>
-
+Topics we cover: ...
 
 ## Resources
 
