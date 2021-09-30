@@ -167,6 +167,7 @@ The abbreviation tag defines an abbreviation or an acronym.
 
 The address tag defines contact information which is usually rendered in italics.
 
+### Citation Tag
 <details>
 <summary>
 <code>
@@ -174,7 +175,6 @@ The address tag defines contact information which is usually rendered in italics
 </code>
 </summary>
 <ul>
-<li><b>Citation Tag</b></li>
 <li>The citation tag defines a reference to a cited creative work which is usually rendered in italic.</li>
 </ul>
 </details>
