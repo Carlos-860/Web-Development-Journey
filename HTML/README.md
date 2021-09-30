@@ -1,4 +1,4 @@
-# HTML
+# HTML ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
@@ -170,22 +170,30 @@ The address tag defines contact information which is usually rendered in italics
 ### Citation Tag
 <details>
 <summary>
-<code>
-&lt;cite&gt;&lt/cite&gt;
-</code>
+<code>&lt;cite&gt;&lt/cite&gt;</code>
 </summary>
-<ul>
-<li>The citation tag defines a reference to a cited creative work which is usually rendered in italic.</li>
-</ul>
+The citation tag defines a reference to a cited creative work which is usually rendered in italic.
 </details>
 
-
+### Bi-Directional Tag
 <details>
 <summary>
-<code>
-&lt;bdo&gt;&lt/bdo&gt;
-</code>
+<code>&lt;bdo&gt;&lt/bdo&gt;</code>
 </summary>
-<b>Bi-Directional Overide</b>
-<p>The bi-directional overide tag is used to overide the default text direction.</p>
+The bi-directional overide tag is used to overide the default text direction.
 </details>
+
+## HTML Resources & Tools
+
+### HTML Validators
+- [W3c](https://validator.w3.org/) => Checks markup of HTML web documents.
+- [FREEFORMATTER.COM](https://www.freeformatter.com/html-validator.html) => Validates HTML files.
+- [FREEFORMATTER.COM](https://www.freeformatter.com/html-formatter.html) => Formats HTML files to your desired text indention.
+
+### Code Editor Extenstions
+- [Emmet](https://emmet.io/) => Code Editor extention that improves your HTML workflow.
+- [HTML End Tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels) => Labels HTML end tags code editors.
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) => Automatically closes HTML end tags.
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) => Automatically renames paired HTML tags.
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) => Allows you to create more user friendly code.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) => Code formatter.
