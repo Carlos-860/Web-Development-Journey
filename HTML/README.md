@@ -14,11 +14,12 @@ HTML (**Hyper Text Markup Language**) is the most basic [building block of the w
 
 
 3. List of HTML Tags
+	1. DOCTYPE
 
 
 </details>
 
-### Structure of HTML tag
+## Structure of HTML tag
 
 Generally, HTML tags are defined by a start tag, some content and an end tag.
 
@@ -40,7 +41,7 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 <br />
 ```
 
-### Structure of HTML Attributes
+## Structure of HTML Attributes
 
 
 ## List of HTML Tags
