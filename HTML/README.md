@@ -170,17 +170,30 @@ The blockquote tag defines a section of quoted text from another source which is
 
 The quote tag defines a short qoutation which is usually enclosed with quotation marks.
 
-### Abbreviation Tag
-`<abbr></abbr>`
 
-The abbreviation tag defines an abbreviation or an acronym.
+### Quote Tag
+
+
+
+
+### Abbreviation Tag
+<details>
+<summary>
+<code>&lt;abbr&gt;&lt/abbr&gt;</code>
+</summary>
+<ul>
+<li>The abbreviation tag defines an abbreviation or an acronym.</li>
+</ul>
+</details>
 
 ### Address Tag
 <details>
 <summary>
 <code>&lt;address&gt;&lt/address&gt;</code>
 </summary>
-The address tag defines contact information which is usually rendered in italics.
+<ul>
+<li>The address tag defines contact information which is usually rendered in italics.</li>
+</ul>
 </details>
 
 ### Bi-Directional Tag
@@ -188,7 +201,9 @@ The address tag defines contact information which is usually rendered in italics
 <summary>
 <code>&lt;bdo&gt;&lt/bdo&gt;</code>
 </summary>
-The bi-directional overide tag is used to overide the default text direction.
+<ul>
+<li>The bi-directional overide tag is used to overide the default text direction.</li>
+</ul>
 </details>
 
 ### Citation Tag
@@ -196,7 +211,9 @@ The bi-directional overide tag is used to overide the default text direction.
 <summary>
 <code>&lt;cite&gt;&lt/cite&gt;</code>
 </summary>
-The citation tag defines a reference to a cited creative work which is usually rendered in italic.
+<ul>
+<li>The citation tag defines a reference to a cited creative work which is usually rendered in italic.</li>
+</ul>
 </details>
 
 ## HTML Resources & Tools
