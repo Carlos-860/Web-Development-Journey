@@ -75,7 +75,7 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 </details>
 
-## HTML {#custom-id}
+## HTML
 
 HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
 
@@ -109,7 +109,7 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 
 -
 
-## CSS {#CSS}
+## CSS
 
 Topics we cover: ...
 
