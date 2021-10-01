@@ -29,10 +29,10 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 <details>
 <summary>Table Contents</summary>
 
-1. [HTML](#HTML)
+[1.HTML](#HTML)
 
 
-2. [CSS](#CSS)
+[2.CSS](#CSS)
 
 
 3. [Bootstrap]
