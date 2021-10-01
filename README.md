@@ -29,53 +29,53 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 <details>
 <summary>Table Contents</summary>
 
-1. HTML
+1. [HTML](#HTML)
 
 
-2. CSS
+2. [CSS](#CSS)
 
 
-3. Bootstrap
+3. [Bootstrap]
 
 
-4. Tailwind CSS
+4. [Tailwind CSS]
 
 
-5. SCSS
+5. [SCSS]
 
 
-6. JS
+6. [JS]
 
 
-7. JSON
+7. [JSON]
 
 
-8. NPM
+8. [NPM]
 
 
-9. Vue
+9. [Vue]
 
 
-10. React
+10. [React]
 
 
-11. Webpack
+11. [Webpack]
 
 
-12. Node.js
+12. [Node.js]
 
 
-13. Express
+13. [Express]
 
 
-14. Mongo DB
+14. [Mongo DB]
 
 
-15. Graph Ql
+15. [Graph Ql]
 
 </details>
 
-## HTML
+## HTML {#HTML}
 
 HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
 
@@ -109,7 +109,7 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 
 -
 
-## CSS
+## CSS {#CSS}
 
 Topics we cover: ...
 
