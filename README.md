@@ -111,13 +111,14 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 
 ### Coding Resources
 
-- [w3schools](https://www.w3schools.com/)
+- [w3schools](https://www.w3schools.com/):heart:
 - [DevDocs API Documentation](https://devdocs.io/) => Collection of all programming languages documentation and more...
 - [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets
 
 ### Image Resources
 
-- [Unsplash](https://unsplash.com/) => Royalty Free stock stock images and photos.
+- [Unsplash](https://unsplash.com/):heart: => Royalty Free stock stock images and photos.
+- [Pexels](https://www.pexels.com/) => Free stock photos.
 
 ### Font Resources
 
