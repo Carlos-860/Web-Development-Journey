@@ -160,7 +160,7 @@ The subscript tag defines subscript text which displays half a character below t
 
 The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
 
-### Blockquote Tag
+### Blockquote Tag 
 `<blockquote></blockquote>`
 
 The blockquote tag defines a section of quoted text from another source which is usually indented.
@@ -176,7 +176,7 @@ The quote tag defines a short qoutation which is usually enclosed with quotation
 
 
 
-### Abbreviation Tag
+### Abbreviation Tag `Text Formatting`
 <details>
 <summary>
 <code>&lt;abbr&gt;&lt/abbr&gt;</code>
