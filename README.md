@@ -83,9 +83,6 @@ HTML (**Hyper Text Markup Language**) is the most basic [building block of the w
 
 It consists of a number of **elements** (used interchangeably with tags) which [tell browsers how to display the content](https://www.w3schools.com/html/html_intro.asp).
 
-
-
-
 <br />
 
 <p align="center">
@@ -109,10 +106,6 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 <p align="center">
 <a href="HTML/README.md">Continue to HTML Section</a>
 </p>
-
-## CSS
-
-Topics we cover: ...
 
 ## Resources
 
