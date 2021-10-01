@@ -29,10 +29,10 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 <details>
 <summary>Table Contents</summary>
 
-[1.HTML](#HTML)
+[1. HTML](#HTML)
 
 
-[2.CSS](#CSS)
+[2. CSS](#CSS)
 
 
 3. [Bootstrap]
@@ -106,8 +106,9 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 	</body>
 </html>
 ```
-
--
+<p align="center">
+[Continue to HTML Section](HTML/README.md)
+</p>
 
 ## CSS
 
