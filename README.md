@@ -107,7 +107,7 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 </html>
 ```
 <p align="center">
-[Continue to HTML Section](HTML/README.md)
+<a href="HTML/README.md">Continue to HTML Section</a>
 </p>
 
 ## CSS
