@@ -47,10 +47,14 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 ## List of HTML Tags
 
 ### DOCTYPE tag
-
-`<DOCTYPE html>`
-
-The `<DOCTYPE html>` tag defines that the document is an HTML5 document.
+<details>
+<summary>
+<code>&lt;DOCTYPE html&gt;</code>
+</summary>
+<ul>
+<li>The `<DOCTYPE html>` tag defines that the document is an HTML5 document.</li>
+</ul>
+</details>
 
 
 ### html tag
@@ -160,23 +164,28 @@ The subscript tag defines subscript text which displays half a character below t
 
 The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
 
-### Blockquote Tag 
-`<blockquote></blockquote>`
 
-The blockquote tag defines a section of quoted text from another source which is usually indented.
+### Blockquote Tag
+<details>
+<summary>
+<code>&lt;blockquote&gt;&lt/blockquote&gt;</code>
+</summary>
+<ul>
+<li>The blockquote tag defines a section of quoted text from another source which is usually indented.</li>
+</ul>
+</details>
 
 ### Quote Tag
-`<q></q>`
+<details>
+<summary>
+<code>&lt;q&gt;&lt/q&gt;</code>
+</summary>
+<ul>
+<li>The quote tag defines a short qoutation which is usually enclosed with quotation marks.</li>
+</ul>
+</details>
 
-The quote tag defines a short qoutation which is usually enclosed with quotation marks.
-
-
-### Quote Tag
-
-
-
-
-### Abbreviation Tag ###### `Text Formatting`
+### Abbreviation Tag
 <details>
 <summary>
 <code>&lt;abbr&gt;&lt/abbr&gt;</code>
@@ -221,12 +230,12 @@ The quote tag defines a short qoutation which is usually enclosed with quotation
 ### HTML Validators
 - [W3c](https://validator.w3.org/) => Checks markup of HTML web documents.
 - [FREEFORMATTER.COM](https://www.freeformatter.com/html-validator.html) => Validates HTML files.
-- [FREEFORMATTER.COM](https://www.freeformatter.com/html-formatter.html) => Formats HTML files to your desired text indention.
+- [FREEFORMATTER.COM]:heart:(https://www.freeformatter.com/html-formatter.html) => Formats HTML files to your desired text indention.
 
 ### Code Editor Extenstions
-- [Emmet](https://emmet.io/) => Code Editor extention that improves your HTML workflow.
+- [Emmet](https://emmet.io/):heart: => Code Editor extention that improves your HTML workflow.
 - [HTML End Tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels) => Labels HTML end tags code editors.
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) => Automatically closes HTML end tags.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) => Automatically renames paired HTML tags.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) => Allows you to create more user friendly code.
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) => Code formatter.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):heart: => Code formatter.
