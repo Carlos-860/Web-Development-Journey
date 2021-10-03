@@ -103,6 +103,11 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 	</body>
 </html>
 ```
+
+### Projects we will build
+- [HTML Documentation Web Page](HTML/HTML Documentation Web Page)
+- [HTML Wikipedia Web Page](HTML/HTML Wikipedia Web Page)
+
 <p align="center">
 <a href="HTML/README.md">Continue to HTML Section</a>
 </p>
