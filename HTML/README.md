@@ -46,29 +46,22 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 ## List of HTML Tags
 
-### DOCTYPE tag
-<details>
-<summary>
-<code>&lt;DOCTYPE html&gt;</code>
-</summary>
-<ul>
-<li>The `<DOCTYPE html>` tag defines that the document is an HTML5 document.</li>
-</ul>
-</details>
+DOCTYPE tag `<DOCTYPE html>`
+- The `<DOCTYPE html>`tag defines that the document is an HTML5 document.
 
+<br />
 
-### html tag
+html tag `<html>`
+- The `<html>` tag refers to the root element of an HTML page.
 
-`<html></html>`
+<br>
+<br>
 
-The `<html>` tag refers to the root element of an HTML page.
+head tag `<head>`
+- The `<head>` tag contains meta information about the HTML page.
 
-
-### head tag
-
-`<head></head>`
-
-The `<head>` tag contains meta information about the HTML page.
+<br>
+<hr>
 
 ### title tag
 
@@ -228,9 +221,9 @@ The superscript tag defines superscript text which displays half a character abo
 ## HTML Resources & Tools
 
 ### HTML Validators
-- [W3c](https://validator.w3.org/) => Checks markup of HTML web documents.
+- [W3C](https://validator.w3.org/) => Checks markup of HTML web documents.
 - [FREEFORMATTER.COM](https://www.freeformatter.com/html-validator.html) => Validates HTML files.
-- [FREEFORMATTER.COM]:heart:(https://www.freeformatter.com/html-formatter.html) => Formats HTML files to your desired text indention.
+- [FREEFORMATTER.COM](https://www.freeformatter.com/html-formatter.html):heart: => Formats HTML files to your desired text indention.
 
 ### Code Editor Extenstions
 - [Emmet](https://emmet.io/):heart: => Code Editor extention that improves your HTML workflow.
