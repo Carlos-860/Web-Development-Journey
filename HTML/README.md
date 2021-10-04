@@ -46,34 +46,25 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 ## List of HTML Tags
 
-DOCTYPE tag `<DOCTYPE html>`
+DOCTYPE tag 	`<DOCTYPE html>`
 - The `<DOCTYPE html>`tag defines that the document is an HTML5 document.
-
 <br />
 
-html tag `<html>`
+html tag 	`<html>`
 - The `<html>` tag refers to the root element of an HTML page.
+<br />
 
-<br>
-<br>
-
-head tag `<head>`
+head tag	`<head>`
 - The `<head>` tag contains meta information about the HTML page.
+<br/>
 
-<br>
-<hr>
+title tag 	`<title>`
+- The `<title>` tag displays its content inside a browsers title bar or page tab.
+<br />
 
-### title tag
-
-`<title></title>`
-
-The `<title>` tag displays its content inside a browsers title bar or page tab.
-
-### body tag
-
-`<body></body>`
-
-The `<body>` tag contains all the visible content that displays on the web page.
+body tag 	`<body>`
+- The `<body>` tag contains all the visible content that displays on the web page.
+<br />
 
 ### heading tag(s)
 `<h1>Heading 1</h1>`
@@ -208,15 +199,9 @@ The superscript tag defines superscript text which displays half a character abo
 </ul>
 </details>
 
-### Citation Tag
-<details>
-<summary>
-<code>&lt;cite&gt;&lt/cite&gt;</code>
-</summary>
-<ul>
-<li>The citation tag defines a reference to a cited creative work which is usually rendered in italic.</li>
-</ul>
-</details>
+Citation Tag 	`<cite>`
+- The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
+<br />
 
 ## HTML Resources & Tools
 
