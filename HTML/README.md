@@ -4,6 +4,14 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
 
+[](## Table of Contents
+- Tag Structure
+- Tag Attributes
+- Semantic Tags
+- Comments in HTML
+- 
+)
+
 <details>
 <summary>Table of Contents</summary>
 
@@ -199,9 +207,12 @@ The superscript tag defines superscript text which displays half a character abo
 </ul>
 </details>
 
-Citation Tag 	`<cite>`
+cite tag `<cite>`
 - The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
 <br />
+
+comment tag `<!-- Comments go here -->`
+- The comment tags content is not rendered in the browser but instead document your HTML source code.
 
 ## HTML Resources & Tools
 
