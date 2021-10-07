@@ -127,6 +127,7 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 ### Projects we will build
 - [HTML Documentation Web Page](https://github.com/Carlos-860/Web-Development-Journey/tree/master/HTML/HTML%20Documentation%20Web%20Page)
 - [HTML Wikipedia Web Page](https://github.com/Carlos-860/Web-Development-Journey/tree/master/HTML/HTML%20Wikipedia%20Web%20Page)
+- [Request More Projects](mailto:carlostimotheus5@gmail.com)
 
 <p align="center">
 <a href="HTML/README.md">Continue to HTML Section</a>
