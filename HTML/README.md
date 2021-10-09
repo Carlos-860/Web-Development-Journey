@@ -216,6 +216,15 @@ comment tag `<!-- Comments go here -->`
 
 ## HTML Resources & Tools
 
+### HTML Learning Resources
+
+#### Books
+- [HTML5 Notes for Professionals](https://books.goalkicker.com/HTML5Book/) => 
+- [HTML5 Canvas Notes for Professionals](https://books.goalkicker.com/HTML5CanvasBook/) => 
+
+#### Videos
+- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE&t=7s) => A simple and yet effective HTML Crash Course for any Web Developer.
+
 ### HTML Validators
 - [W3C](https://validator.w3.org/) => Checks markup of HTML web documents.
 - [FREEFORMATTER.COM](https://www.freeformatter.com/html-validator.html) => Validates HTML files.
