@@ -2,29 +2,15 @@
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
-HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
-
-<details>
-<summary>Table of Contents</summary>
-
+## Table of Contents
 1. Structure of HTML tags
-
 2. Structure of HTML attributes
-
 3. Common HTML tags for your websites
-
 4. FAQ's about HTML
-
 5. List of HTML tags
-	
-</details>
 
-<!--- Semenatic Tags -->
-<!--- Block level vs inline Tags -->
-<!---  -->
 
 ## Structure of HTML tags
-
 Generally, HTML tags are defined by a start tag, some content and an end tag.
 ```html
 <tagname>content</tagname>
@@ -49,15 +35,15 @@ Example
 All HTML elements can have attributes that provide additional information about elements.
 
 HTML attributes come in name/value pairs.
-
-`name="value"`
-
+```html
+name="value"`
+```
 Example
 ```html
 <img src="" alt="" />
 ```
 
-## List of HTML Tags
+## Common HTML tags for your websites
 
 Doctype Tag 	`<DOCTYPE html>`
 - The `<DOCTYPE html>`tag defines that the document is an HTML5 document.
@@ -109,20 +95,11 @@ Line Break Tag 		`<br>` OR `<br />`
 - The `<br />` tag represents line break (new line).
 <br />
 
-### Bold Tag
-`<b></b>`
-
-The bold tag merely defines bold text.
 
 ### Strong Tag
 `<strong></strong>`
 
 The strong tag defines its contents with importance as it is ussually also displayed in bold.
-
-### Italic Tag
-`<i></i>`
-
-The italic tag merely defines italized text.
 
 ### Emphasized Tag
 `<em></em>`
@@ -131,32 +108,14 @@ The emphasized tag defines emphasized text and it is usually displayed in italic
 
 ### Small Tag
 `<small></small>`
-
 The small tag defiens smaller text.
-
-### Mark Tag
-`<mark></mark>`
-
-The mark tag defines text or content that should be highlighted.
-
-### Deleted Tag
-`<del></del>`
-
-The deleted tag defines deleted text which is usually displayed with a line through it.
-
-### Inserted Tag
-`<ins></ins>`
-
-The inserted tag defines inserted text which is usually underlined.
 
 ### Subscript Tag
 `<sub></sub>`
-
 The subscript tag defines subscript text which displays half a character below the normal line (used for chemical formulations).
 
 ### Superscript Tag
 `<sup></sup>`
-
 The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
 
 
@@ -180,15 +139,7 @@ The superscript tag defines superscript text which displays half a character abo
 </ul>
 </details>
 
-### Abbreviation Tag
-<details>
-<summary>
-<code>&lt;abbr&gt;&lt/abbr&gt;</code>
-</summary>
-<ul>
-<li>The abbreviation tag defines an abbreviation or an acronym.</li>
-</ul>
-</details>
+
 
 ### Address Tag
 <details>
@@ -200,15 +151,6 @@ The superscript tag defines superscript text which displays half a character abo
 </ul>
 </details>
 
-### Bi-Directional Tag
-<details>
-<summary>
-<code>&lt;bdo&gt;&lt/bdo&gt;</code>
-</summary>
-<ul>
-<li>The bi-directional overide tag is used to overide the default text direction.</li>
-</ul>
-</details>
 
 cite tag `<cite>`
 - The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
