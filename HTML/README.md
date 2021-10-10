@@ -1,4 +1,4 @@
-<h1>HTML <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" /></h1>
+<h1>HTML <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" /></h1>
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
@@ -7,42 +7,55 @@ HTML (**Hyper Text Markup Language**) is the most basic [building block of the w
 <details>
 <summary>Table of Contents</summary>
 
-1. Structure of HTML Tags
+1. Structure of HTML tags
 
+2. Structure of HTML attributes
 
-2. Structure of HTML Attributes
+3. Common HTML tags for your websites
 
+4. FAQ's about HTML
 
-3. List of HTML Tags
-	1. DOCTYPE
-
-
+5. List of HTML tags
+	
 </details>
 
-## Structure of HTML tag
+<!--- Semenatic Tags -->
+<!--- Block level vs inline Tags -->
+<!---  -->
+
+## Structure of HTML tags
 
 Generally, HTML tags are defined by a start tag, some content and an end tag.
-
-`<tagname>content</tagname>`
-
-- Example
+```html
+<tagname>content</tagname>
+```
+Example
 ```html
 <p>This is a paragraph tag.</p>
 ```
-
 <br />
 
 *Exception* certain HTML tags do not have a closing tag and hence, are referred to as [empty tags](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics).
-
-`<tagname />`
-
-- Example 
+```html
+<tagname />
+```
+Example 
 ```html
 <br />
 ```
 
 ## Structure of HTML Attributes
 
+All HTML elements can have attributes that provide additional information about elements.
+
+HTML attributes come in name/value pairs.
+
+`name="value"`
+
+Example
+```html
+<img src="" alt="" />
+```
 
 ## List of HTML Tags
 
@@ -66,7 +79,7 @@ Body tag 	`<body>`
 - The `<body>` tag contains all the visible content that displays on the web page.
 <br />
 
-### Heading Tag(s) `<h1> - <h6>`
+Heading Tag(s) `<h1> - <h6>`
 - Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.
 ```html
 <h1>Heading 1</h1>
@@ -84,15 +97,15 @@ Body tag 	`<body>`
 - Every web page should only comprise of one `<h1>` tag since search engines may penalize you for overusing it.
 <br />
 
-### Paragraph tag 	`<p>`
+Paragraph tag 	`<p>`
 - Paragraph tags are defined by `<p>` element.
 <br />
 
-### Horizontal Rule Tag 	`<hr />`
+Horizontal Rule Tag 	`<hr />`
 - The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.
 <br />
 
-### Line Break Tag 	`<br>` OR `<br />`
+Line Break Tag 		`<br>` OR `<br />`
 - The `<br />` tag represents line break (new line).
 <br />
 
@@ -203,6 +216,7 @@ cite tag `<cite>`
 
 comment tag `<!-- Comments go here -->`
 - The comment tags content is not rendered in the browser but instead document your HTML source code.
+
 
 ## HTML Resources & Tools
 
