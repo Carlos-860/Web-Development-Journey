@@ -1,16 +1,8 @@
-# HTML ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+<h1>HTML <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" /></h1>
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
 HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
-
-[](## Table of Contents
-- Tag Structure
-- Tag Attributes
-- Semantic Tags
-- Comments in HTML
-- 
-)
 
 <details>
 <summary>Table of Contents</summary>
@@ -54,57 +46,55 @@ Generally, HTML tags are defined by a start tag, some content and an end tag.
 
 ## List of HTML Tags
 
-DOCTYPE tag 	`<DOCTYPE html>`
+Doctype Tag 	`<DOCTYPE html>`
 - The `<DOCTYPE html>`tag defines that the document is an HTML5 document.
 <br />
 
-html tag 	`<html>`
+Html Tag 	`<html>`
 - The `<html>` tag refers to the root element of an HTML page.
 <br />
 
-head tag	`<head>`
+Head tag	`<head>`
 - The `<head>` tag contains meta information about the HTML page.
 <br/>
 
-title tag 	`<title>`
+Title tag 	`<title>`
 - The `<title>` tag displays its content inside a browsers title bar or page tab.
 <br />
 
-body tag 	`<body>`
+Body tag 	`<body>`
 - The `<body>` tag contains all the visible content that displays on the web page.
 <br />
 
-### heading tag(s)
-`<h1>Heading 1</h1>`
+### Heading Tag(s) `<h1> - <h6>`
+- Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.
+```html
+<h1>Heading 1</h1>
 
-`<h2>Heading 2</h2>`
+<h2>Heading 2</h2>
 
-`<h3>Heading 3</h3>`
+<h3>Heading 3</h3>
 
-`<h4>Heading 4</h4>`
+<h4>Heading 4</h4>
 
-`<h5>Heading 5</h5>`
+<h5>Heading 5</h5>
 
-`<h6>Heading 6</h6>`
+<h6>Heading 6</h6>
+```
+- Every web page should only comprise of one `<h1>` tag since search engines may penalize you for overusing it.
+<br />
 
-Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.
+### Paragraph tag 	`<p>`
+- Paragraph tags are defined by `<p>` element.
+<br />
 
-__Note__ every web page needs only one `<h1>` tag since search engines may penalize you for overusing it.
+### Horizontal Rule Tag 	`<hr />`
+- The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.
+<br />
 
-### paragraph tag
-`<p></p>`
-
-Paragraph tags are defined by `<p>` element.
-
-### horizontal rule tag
-`<hr />` OR `<hr>`
-
-The horizontal rule tag represents a break in the in the HTML page by displaying a horizontal rule.
-
-### Line Break Tag
-`<br>` OR `<br />`
-
-The line break tag represents line break (new line).
+### Line Break Tag 	`<br>` OR `<br />`
+- The `<br />` tag represents line break (new line).
+<br />
 
 ### Bold Tag
 `<b></b>`
@@ -218,12 +208,16 @@ comment tag `<!-- Comments go here -->`
 
 ### HTML Learning Resources
 
-#### Books
-- [HTML5 Notes for Professionals](https://books.goalkicker.com/HTML5Book/) => 
-- [HTML5 Canvas Notes for Professionals](https://books.goalkicker.com/HTML5CanvasBook/) => 
+#### HTML Books
+- [HTML5 Notes for Professionals](https://books.goalkicker.com/HTML5Book/) => HTML5 notes compiled from Stack Overflow documentation.
+- [HTML5 Canvas Notes for Professionals](https://books.goalkicker.com/HTML5CanvasBook/) => HTML5 Canvas notes compiled from Stack Overflow documentation.
 
-#### Videos
+#### HTML Videos
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE&t=7s) => A simple and yet effective HTML Crash Course for any Web Developer.
+
+### HTML Cheatsheet
+- [Codecademy Learn HTML Cheetsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet):heart: => A well structured and cheatsheet on  HTML.
+- [HTML Cheatsheet](https://htmlcheatsheet.com/) => An interactive HTML Cheatsheet.
 
 ### HTML Validators
 - [W3C](https://validator.w3.org/) => Checks markup of HTML web documents.
