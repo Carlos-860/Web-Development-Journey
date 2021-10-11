@@ -46,71 +46,20 @@ Example
 ## Common HTML tags for your websites
 
 |Element Name|Element Markup|Element Description|
-
-
-|Element Name|Element Markup|Element Description|
 |---|---|---|
 |doctype tag|`<DOCTYPE html>`|The `<DOCTYPE html>`tag defines that the document is an HTML5 document.|
-|html tag|`<html></html>`|The `<html>` tag refers to the root element of an HTML page.|
-|   |   |   |
+|html tag|`<html>`|The `<html>` tag refers to the root element of an HTML page.|
+|head tag|`<head>`|The `<head>` tag contains meta information about the HTML page.|
+|title tag|`<title>`|The `<title>` tag displays its content inside a browsers title bar or page tab.|
+|body tag|`<body>`|The `<body>` tag contains all the visible content that displays on the web page.|
+|heading tag(s)|`<h1>` - <h6>|Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.|
+|paragraph tag|`<p>`|Paragraph tags are defined by `<p>` element.|
+|horizontal rule tag|`<hr />`|The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.|
+|line break tag|`<br />`|The `<br />` tag represents line break (new line).|
+|strong tag|`<strong>`|The `<strong>` tag defines its contents with importance as it is usually also displayed in bold.|
+|emphasized tag|`<em>`|The emphasized tag defines emphasized text and it is usually displayed in italic.|
 
-Doctype Tag 	`<DOCTYPE html>`
-- The `<DOCTYPE html>`tag defines that the document is an HTML5 document.
-<br />
 
-Html Tag 	`<html>`
-- The `<html>` tag refers to the root element of an HTML page.
-<br />
-
-Head tag	`<head>`
-- The `<head>` tag contains meta information about the HTML page.
-<br/>
-
-Title tag 	`<title>`
-- The `<title>` tag displays its content inside a browsers title bar or page tab.
-<br />
-
-Body tag 	`<body>`
-- The `<body>` tag contains all the visible content that displays on the web page.
-<br />
-
-Heading Tag(s) `<h1> - <h6>`
-- Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.
-```html
-<h1>Heading 1</h1>
-
-<h2>Heading 2</h2>
-
-<h3>Heading 3</h3>
-
-<h4>Heading 4</h4>
-
-<h5>Heading 5</h5>
-
-<h6>Heading 6</h6>
-```
-- Every web page should only comprise of one `<h1>` tag since search engines may penalize you for overusing it.
-<br />
-
-Paragraph tag 	`<p>`
-- Paragraph tags are defined by `<p>` element.
-<br />
-
-Horizontal Rule Tag `<hr />`
-- The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.
-<br />
-
-Line Break Tag 	`<br>` OR `<br />`
-- The `<br />` tag represents line break (new line).
-<br />
-
-Strong Tag 	`<strong>`
-- The strong tag defines its contents with importance as it is usually also displayed in bold.
-<br />
-
-Emphasized Tag 	`<em>`
-- The emphasized tag defines emphasized text and it is usually displayed in italic.
-<br />
 
 Small Tag 	`<small>`
 - The small tag defines smaller text.
@@ -138,7 +87,15 @@ Cite tag 	`<cite>`
 
 ## Frequently Asked Questions about HTML
 
-#### 
+### Inline Elements vs Block-level Elements
+
+### Semantic HTML elements
+
+### HTML accessibility
+For more information on accessibitlity, have a look at [w3schools accessibility tutorial](https://www.w3schools.com/accessibility/index.php).
+
+### HTML Client Side Validition
+
 
 ## HTML Resources & Tools
 
