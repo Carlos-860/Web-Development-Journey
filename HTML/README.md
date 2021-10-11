@@ -3,11 +3,12 @@
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
 ## Table of Contents
-1. Structure of HTML tags
-2. Structure of HTML attributes
-3. Common HTML tags for your websites
-4. FAQ's about HTML
-5. List of HTML tags
+[1. Structure of HTML tags](#structure-of-html-tags)
+[2. Structure of HTML attributes](#structure-of-html-attributes)
+[3. Common HTML tags for your websites](common-html-tags-for-your-websites)
+<!--- 4. FAQ's about HTML
+5. List of HTML tags -->
+[6. HTML Resources & Tools](#html-resources--tools)
 
 
 ## Structure of HTML tags
@@ -31,12 +32,11 @@ Example
 ```
 
 ## Structure of HTML Attributes
-
 All HTML elements can have attributes that provide additional information about elements.
 
 HTML attributes come in name/value pairs.
 ```html
-name="value"`
+name="value"
 ```
 Example
 ```html
@@ -87,78 +87,45 @@ Paragraph tag 	`<p>`
 - Paragraph tags are defined by `<p>` element.
 <br />
 
-Horizontal Rule Tag 	`<hr />`
+Horizontal Rule Tag `<hr />`
 - The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.
 <br />
 
-Line Break Tag 		`<br>` OR `<br />`
+Line Break Tag 	`<br>` OR `<br />`
 - The `<br />` tag represents line break (new line).
 <br />
 
-
-### Strong Tag
-`<strong></strong>`
-
-The strong tag defines its contents with importance as it is ussually also displayed in bold.
-
-### Emphasized Tag
-`<em></em>`
-
-The emphasized tag defines emphasized text and it is usually displayed in italic.
-
-### Small Tag
-`<small></small>`
-The small tag defiens smaller text.
-
-### Subscript Tag
-`<sub></sub>`
-The subscript tag defines subscript text which displays half a character below the normal line (used for chemical formulations).
-
-### Superscript Tag
-`<sup></sup>`
-The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
-
-
-### Blockquote Tag
-<details>
-<summary>
-<code>&lt;blockquote&gt;&lt/blockquote&gt;</code>
-</summary>
-<ul>
-<li>The blockquote tag defines a section of quoted text from another source which is usually indented.</li>
-</ul>
-</details>
-
-### Quote Tag
-<details>
-<summary>
-<code>&lt;q&gt;&lt/q&gt;</code>
-</summary>
-<ul>
-<li>The quote tag defines a short qoutation which is usually enclosed with quotation marks.</li>
-</ul>
-</details>
-
-
-
-### Address Tag
-<details>
-<summary>
-<code>&lt;address&gt;&lt/address&gt;</code>
-</summary>
-<ul>
-<li>The address tag defines contact information which is usually rendered in italics.</li>
-</ul>
-</details>
-
-
-cite tag `<cite>`
-- The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
+Strong Tag 	`<strong>`
+- The strong tag defines its contents with importance as it is usually also displayed in bold.
 <br />
 
-comment tag `<!-- Comments go here -->`
-- The comment tags content is not rendered in the browser but instead document your HTML source code.
+Emphasized Tag 	`<em>`
+- The emphasized tag defines emphasized text and it is usually displayed in italic.
+<br />
 
+Small Tag 	`<small>`
+- The small tag defines smaller text.
+<br />
+
+Superscript Tag `<sup>`
+- The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
+<br />
+
+Blockquote Tag 	`<blockquote>`
+- The blockquote tag defines a section of quoted text from another source which is usually indented.
+<br />
+
+Quote Tag 	`<q>`
+- The quote tag defines a short qoutation which is usually enclosed with quotation marks.
+<br />
+
+Address Tag 	`<address>`
+- The address tag defines contact information which is usually rendered in italics.
+<br />
+
+Cite tag 	`<cite>`
+- The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
+<br />
 
 ## HTML Resources & Tools
 
@@ -172,13 +139,13 @@ comment tag `<!-- Comments go here -->`
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE&t=7s) => A simple and yet effective HTML Crash Course for any Web Developer.
 
 ### HTML Cheatsheet
-- [Codecademy Learn HTML Cheetsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet):heart: => A well structured and cheatsheet on  HTML.
+- [Codecademy Learn HTML Cheetsheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet) => A well structured and cheatsheet on  HTML.
 - [HTML Cheatsheet](https://htmlcheatsheet.com/) => An interactive HTML Cheatsheet.
 
 ### HTML Validators
 - [W3C](https://validator.w3.org/) => Checks markup of HTML web documents.
 - [FREEFORMATTER.COM](https://www.freeformatter.com/html-validator.html) => Validates HTML files.
-- [FREEFORMATTER.COM](https://www.freeformatter.com/html-formatter.html):heart: => Formats HTML files to your desired text indention.
+- [FREEFORMATTER.COM](https://www.freeformatter.com/html-formatter.html) => Formats HTML files to your desired text indention.
 
 ### Code Editor Extenstions
 - [Emmet](https://emmet.io/):heart: => Code Editor extention that improves your HTML workflow.
