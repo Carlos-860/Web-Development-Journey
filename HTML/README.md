@@ -3,17 +3,17 @@
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
 ## Table of Contents
-1.[Structure of HTML tags](#structure-of-html-tags)
+1. [Structure of HTML tags](#structure-of-html-tags)
 
-2.[Structure of HTML attributes](#structure-of-html-attributes)
+2. [Structure of HTML attributes](#structure-of-html-attributes)
 
-3.[Common HTML tags for your websites](common-html-tags-for-your-websites)
+3. [Common HTML tags for your websites](common-html-tags-for-your-websites)
 
-4.[Frequently Asked Questions about HTML]()
+4. [Frequently Asked Questions about HTML]()
 
-5.[HTML Resources & Tools](#html-resources--tools)
+5. [HTML Resources & Tools](#html-resources--tools)
 
-## Structure of HTML tags
+## 1. Structure of HTML tags
 Generally, HTML tags are defined by a start tag, some content and an end tag.
 ```html
 <tagname>content</tagname>
@@ -33,7 +33,7 @@ Example
 <br />
 ```
 
-## Structure of HTML Attributes
+## 2. Structure of HTML Attributes
 All HTML elements can have attributes that provide additional information about elements.
 
 HTML attributes come in name/value pairs.
@@ -45,7 +45,7 @@ Example
 <img src="" alt="" />
 ```
 
-## Common HTML tags for your websites
+## 3. Common HTML tags for your websites
 
 ### Page Structure Tags
 
@@ -65,9 +65,8 @@ Example
 |paragraph tag|`<p>`|Paragraph tags are defined by `<p>` element.|
 |horizontal rule tag|`<hr />`|The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.|
 |line break tag|`<br />`|The `<br />` tag represents line break (new line).|
-|div tag|`<div>`||
-|span tag|`<span>`||
-
+|div tag|`<div>`|The `<div>` tag is used as a container for other HTML elements.|
+|span tag|`<span>`|The `<span>` tag is an inline container used to mark up a part of a text.|
 
 ### Text Formatting Tags
 
@@ -82,19 +81,23 @@ Example
 |address tag|`<address>`|The `<address>` tag defines contact information which is usually rendered in italics.|
 |cite tag|`<cite>`|The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.|
 
-## Frequently Asked Questions about HTML
+For a  in-depth list of HTML tags, make sure you check out [w3schools HTML Tag References](https://www.w3schools.com/tags/default.asp) web page.
+
+## 4. Frequently Asked Questions about HTML
 
 ### Inline Elements vs Block-level Elements
 
-### Semantic HTML elements
+### Semantic markup
 
 ### HTML accessibility
+
+
 For more information on accessibitlity, have a look at [w3schools accessibility tutorial](https://www.w3schools.com/accessibility/index.php).
 
 ### HTML Client Side Validition
 
 
-## HTML Resources & Tools
+## 5. HTML Resources & Tools
 
 ### HTML Learning Resources
 
