@@ -3,12 +3,12 @@
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
 ## Table of Contents
-[1. Structure of HTML tags](#structure-of-html-tags)
-[2. Structure of HTML attributes](#structure-of-html-attributes)
-[3. Common HTML tags for your websites](common-html-tags-for-your-websites)
-<!--- 4. FAQ's about HTML
-5. List of HTML tags -->
-[6. HTML Resources & Tools](#html-resources--tools)
+1.[Structure of HTML tags](#structure-of-html-tags)
+2.[Structure of HTML attributes](#structure-of-html-attributes)
+3.[Common HTML tags for your websites](common-html-tags-for-your-websites)
+4.[Frequently Asked Questions about HTML]()
+<!--- 5.List of HTML tags -->
+6.[HTML Resources & Tools](#html-resources--tools)
 
 
 ## Structure of HTML tags
@@ -44,6 +44,15 @@ Example
 ```
 
 ## Common HTML tags for your websites
+
+|Element Name|Element Markup|Element Description|
+
+
+|Element Name|Element Markup|Element Description|
+|---|---|---|
+|doctype tag|`<DOCTYPE html>`|The `<DOCTYPE html>`tag defines that the document is an HTML5 document.|
+|html tag|`<html></html>`|The `<html>` tag refers to the root element of an HTML page.|
+|   |   |   |
 
 Doctype Tag 	`<DOCTYPE html>`
 - The `<DOCTYPE html>`tag defines that the document is an HTML5 document.
@@ -126,6 +135,10 @@ Address Tag 	`<address>`
 Cite tag 	`<cite>`
 - The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
 <br />
+
+## Frequently Asked Questions about HTML
+
+#### 
 
 ## HTML Resources & Tools
 
