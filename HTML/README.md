@@ -1,4 +1,4 @@
-<h1>HTML <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" /></h1>
+<h1><img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" /> HTML</h1>
 
 Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Accessibility | SEO
 
@@ -7,9 +7,7 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 2.[Structure of HTML attributes](#structure-of-html-attributes)
 3.[Common HTML tags for your websites](common-html-tags-for-your-websites)
 4.[Frequently Asked Questions about HTML]()
-<!--- 5.List of HTML tags -->
-6.[HTML Resources & Tools](#html-resources--tools)
-
+5.[HTML Resources & Tools](#html-resources--tools)
 
 ## Structure of HTML tags
 Generally, HTML tags are defined by a start tag, some content and an end tag.
@@ -45,6 +43,8 @@ Example
 
 ## Common HTML tags for your websites
 
+### Page Structure Tags
+
 |Element Name|Element Markup|Element Description|
 |---|---|---|
 |doctype tag|`<DOCTYPE html>`|The `<DOCTYPE html>`tag defines that the document is an HTML5 document.|
@@ -52,38 +52,26 @@ Example
 |head tag|`<head>`|The `<head>` tag contains meta information about the HTML page.|
 |title tag|`<title>`|The `<title>` tag displays its content inside a browsers title bar or page tab.|
 |body tag|`<body>`|The `<body>` tag contains all the visible content that displays on the web page.|
-|heading tag(s)|`<h1>` - <h6>|Heading tags are defined from the most important heading `<h1>` to the least important heading `<h6>`.|
+
+### Content & Web Page Formatting Tags
+
+|Element Name|Element Markup|Element Description|
+|---|---|---|
+|heading tag(s)|`<h1>`-`<h6>`|Heading tags range form the most important heading `<h1>` to the least important heading `<h6>`.|
 |paragraph tag|`<p>`|Paragraph tags are defined by `<p>` element.|
 |horizontal rule tag|`<hr />`|The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.|
 |line break tag|`<br />`|The `<br />` tag represents line break (new line).|
+
+### Text Formatting Tags
+
 |strong tag|`<strong>`|The `<strong>` tag defines its contents with importance as it is usually also displayed in bold.|
-|emphasized tag|`<em>`|The emphasized tag defines emphasized text and it is usually displayed in italic.|
-
-
-
-Small Tag 	`<small>`
-- The small tag defines smaller text.
-<br />
-
-Superscript Tag `<sup>`
-- The superscript tag defines superscript text which displays half a character above the normal line (used for footnotes).
-<br />
-
-Blockquote Tag 	`<blockquote>`
-- The blockquote tag defines a section of quoted text from another source which is usually indented.
-<br />
-
-Quote Tag 	`<q>`
-- The quote tag defines a short qoutation which is usually enclosed with quotation marks.
-<br />
-
-Address Tag 	`<address>`
-- The address tag defines contact information which is usually rendered in italics.
-<br />
-
-Cite tag 	`<cite>`
-- The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.
-<br />
+|emphasized tag|`<em>`|The `<em> `tag defines emphasized text and it is usually displayed in italic.|
+|small tag|`<small>`|The `<small>` tag defines smaller text.|
+|superscript tag|`<sup>`|The `<sup>`tag defines superscript text which displays half a character above the normal line (used for footnotes).|
+|blockquote tag|`<blockquote>`|The `<blockquote>` tag defines a section of quoted text from another source which is usually indented.|
+|quote tag|`<q>`|The `<q>` tag defines a short qoutation which is usually enclosed with quotation marks.
+|address tag|`<address>`|The `<address>` tag defines contact information which is usually rendered in italics.|
+|cite tag|`<cite>`|The `<cite>` tag defines a reference to a cited creative work which is usually rendered in italic.|
 
 ## Frequently Asked Questions about HTML
 
