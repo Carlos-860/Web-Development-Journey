@@ -4,9 +4,13 @@ Topics we will cover: Best practices | Semantic HTML | Forms & Validation | Acce
 
 ## Table of Contents
 1.[Structure of HTML tags](#structure-of-html-tags)
+
 2.[Structure of HTML attributes](#structure-of-html-attributes)
+
 3.[Common HTML tags for your websites](common-html-tags-for-your-websites)
+
 4.[Frequently Asked Questions about HTML]()
+
 5.[HTML Resources & Tools](#html-resources--tools)
 
 ## Structure of HTML tags
@@ -57,13 +61,18 @@ Example
 
 |Element Name|Element Markup|Element Description|
 |---|---|---|
-|heading tag(s)|`<h1>`-`<h6>`|Heading tags range form the most important heading `<h1>` to the least important heading `<h6>`.|
+|heading tag(s)|`<h1>` - `<h6>`|Heading tags range form the most important heading `<h1>` to the least important heading `<h6>`.|
 |paragraph tag|`<p>`|Paragraph tags are defined by `<p>` element.|
 |horizontal rule tag|`<hr />`|The `<hr />` tag represents a break in the in the HTML page by displaying a horizontal rule.|
 |line break tag|`<br />`|The `<br />` tag represents line break (new line).|
+|div tag|`<div>`||
+|span tag|`<span>`||
+
 
 ### Text Formatting Tags
 
+|Element Name|Element Markup|Element Description|
+|---|---|---|
 |strong tag|`<strong>`|The `<strong>` tag defines its contents with importance as it is usually also displayed in bold.|
 |emphasized tag|`<em>`|The `<em> `tag defines emphasized text and it is usually displayed in italic.|
 |small tag|`<small>`|The `<small>` tag defines smaller text.|
