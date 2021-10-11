@@ -46,54 +46,10 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 ![Man sitting on rock surronded by water](https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80)
 
 
-<details>
-<summary>Table Contents</summary>
-
+## Table of Contents
 [1. HTML](#HTML)
 
 
-[2. CSS](#CSS)
-
-
-3. [Bootstrap]
-
-
-4. [Tailwind CSS]
-
-
-5. [SCSS]
-
-
-6. [JS]
-
-
-7. [JSON]
-
-
-8. [NPM]
-
-
-9. [Vue]
-
-
-10. [React]
-
-
-11. [Webpack]
-
-
-12. [Node.js]
-
-
-13. [Express]
-
-
-14. [Mongo DB]
-
-
-15. [Graph Ql]
-
-</details>
 
 ## HTML
 
@@ -127,7 +83,7 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 ### Projects we will build
 - [HTML Documentation Web Page](https://github.com/Carlos-860/Web-Development-Journey/tree/master/HTML/HTML%20Documentation%20Web%20Page)
 - [HTML Wikipedia Web Page](https://github.com/Carlos-860/Web-Development-Journey/tree/master/HTML/HTML%20Wikipedia%20Web%20Page)
-- [Request More Projects](mailto:carlostimotheus5@gmail.com)
+- [More Projects Coming Soon](mailto:carlostimotheus5@gmail.com)
 
 <p align="center">
 <a href="HTML/README.md">Continue to HTML Section</a>
@@ -135,11 +91,12 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 
 ## Resources
 
-### Coding Resources
+### Learning Resources
 
-- [w3schools](https://www.w3schools.com/):heart:
-- [DevDocs API Documentation](https://devdocs.io/) => Collection of all programming languages documentation and more...
-- [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets
+- [w3schools](https://www.w3schools.com/):heart: => Interactive and easy to read code snippets of many programming langauges.
+- [DevDocs API Documentation](https://devdocs.io/) => Collection of all programming languages documentation and more.
+- [OverAPI.com](https://overapi.com/) => Collection of all programming languge cheat sheets.
+- [Codecademy](https://www.codecademy.com/resources/cheatsheets/all):heart: => Coding cheetsheets from HTML to Javascript and even Python.
 
 ### Image Resources
 
