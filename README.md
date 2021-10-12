@@ -47,9 +47,9 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 
 ## Table of Contents
-[1. HTML](#HTML)
+1. [HTML](#HTML)
 
-
+2. [CSS](#CSS)
 
 ## HTML
 
@@ -88,6 +88,39 @@ It consists of a number of **elements** (used interchangeably with tags) which [
 <p align="center">
 <a href="HTML/README.md">Continue to HTML Section</a>
 </p>
+
+<br />
+
+## CSS
+
+CSS (**Cascading Style Sheets**) is used to style web documents. It is responsible for describing how HTML elements should be **rendered** or **displayed**.
+
+It consists of a [selector and a declaration block](https://www.w3schools.com/css/css_syntax.asp) that point to the HTML element you want to style.
+
+<br />
+
+<p align="center">
+	<img src="https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="white smartphone on two softbound books" />
+</p>
+
+### Basic CSS Style Sheet
+```css
+body {
+	background: gray;
+}
+
+h1 {
+	font-family: Arial;	
+}
+```
+
+### Projects we will build
+- [More Projects Coming Soon](mailto:carlostimotheus5@gmail.com)
+
+<p align="center">
+<a href="CSS/README.md">Continue to CSS Section</a>
+</p>
+
 
 ## Resources
 
