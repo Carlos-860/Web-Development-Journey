@@ -100,7 +100,7 @@ It consists of a [selector and a declaration block](https://www.w3schools.com/cs
 <br />
 
 <p align="center">
-	<img src="https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="white smartphone on two softbound books" />
+	<img src="https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="white smartphone on two softbound books" />
 </p>
 
 ### Basic CSS Style Sheet
@@ -115,6 +115,7 @@ h1 {
 ```
 
 ### Projects we will build
+- [HTML & CSS Contact Form](https://github.com/Carlos-860/Web-Development-Journey/tree/master/CSS/HTML%20%26%20CSS%20Contact%20Form)
 - [More Projects Coming Soon](mailto:carlostimotheus5@gmail.com)
 
 <p align="center">
