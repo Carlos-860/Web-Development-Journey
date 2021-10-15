@@ -32,6 +32,7 @@ Example
 ```html
 <br />
 ```
+<br />
 
 ## 2. Structure of HTML Attributes
 All HTML elements can have attributes that provide additional information about elements.
@@ -44,6 +45,7 @@ Example
 ```html
 <img src="" alt="" />
 ```
+<br />
 
 ## 3. Common HTML tags for your websites
 
@@ -57,6 +59,8 @@ Example
 |title tag|`<title>`|The `<title>` tag displays its content inside a browsers title bar or page tab.|
 |body tag|`<body>`|The `<body>` tag contains all the visible content that displays on the web page.|
 
+<br />
+
 ### Content & Web Page Formatting Tags
 
 |Element Name|Element Markup|Element Description|
@@ -67,6 +71,8 @@ Example
 |line break tag|`<br />`|The `<br />` tag represents line break (new line).|
 |div tag|`<div>`|The `<div>` tag is used as a container for other HTML elements.|
 |span tag|`<span>`|The `<span>` tag is an inline container used to mark up a part of a text.|
+
+<br />
 
 ### Text Formatting Tags
 
@@ -83,9 +89,27 @@ Example
 
 For a  in-depth list of HTML tags, make sure you check out [w3schools HTML Tag References](https://www.w3schools.com/tags/default.asp) web page.
 
+<br />
+
 ## 4. Frequently Asked Questions about HTML
 
 ### Inline Elements vs Block-level Elements
+Each HTML element has a default block-level or inline behavior.
+
+Inline elements
+- Do not start on a new line.
+- Takes up space in relation to the contents inside it.
+- Do not force content after it into a new line.
+- eg. `<span>`, `<a>` , `<img />`
+
+Block elements
+- Start on a new line.
+- Takes up the full width avaliable by strechoing from left to right.
+- Forces content after it onto a new line.
+- eg. `<div>`, `<p>`, `<ul>`
+
+For a more in depth list of Block level elements, please visit the [w3schools HTML Block and Inline Elements section](https://www.w3schools.com/html/html_blocks.asp).
+
 
 ### Semantic markup
 
@@ -96,6 +120,8 @@ For more information on accessibitlity, have a look at [w3schools accessibility 
 
 ### HTML Client Side Validition
 
+
+<br />
 
 ## 5. HTML Resources & Tools
 
