@@ -51,6 +51,19 @@ Throughout this journey we will encounter numerous tools, languages and technolo
 
 2. [CSS](#CSS)
 
+- Resources
+  <!--- - Learning Resources
+  - Stock Image Resources
+  - Stock Video Resources
+  - 3D Image Resources
+  - Illustartion Resources
+  - Background Pattern Resources
+  - Icon Resources
+  - Font Resources
+  - Favicon Resources-->
+
+
+
 ## HTML
 
 HTML (**Hyper Text Markup Language**) is the most basic [building block of the web](https://www.w3schools.com/html/html_intro.asp). It is responsible for describing the **structure** of **web pages**. 
