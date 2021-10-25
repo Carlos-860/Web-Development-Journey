@@ -113,6 +113,16 @@ For a more in depth list of Block level elements, please visit the [w3schools HT
 
 ### Semantic markup
 
+Semantic elemnts defne sits content to both the browser and the developer.
+
+Unlike non-semantic tags that tell nothing about its content.
+
+#### Semantic Elements
+
+|Element Name|Element Markup|Element Description|
+|---|---|---|
+|article tag|`<article>`|The `<article>` specifies independent content used mainly for Forum posts, blog posts or newspaper articles.|
+
 ### HTML accessibility
 
 
