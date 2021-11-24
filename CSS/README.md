@@ -11,4 +11,17 @@ Topics we will cover: Lear the Basics | Flexbox & Grid | Animations | Responsive
 
 4. [CSS Resources & Tools](#css-resources--tools)
 
-## 2. CSS Syntax
+## 1. CSS Syntax
+
+A CSS rule consists of a selector and declaration block
+
+```CSS
+h1 {
+  color: blue;
+  background-color: pink;
+}
+```
+
+- The `h1` represents the selector
+- The declaration block contains more than one declaration seprated by semicolons.
+- Each declaration contains a CSS property name (`color` etc.) and corresponding value (`pink` etc.) .
