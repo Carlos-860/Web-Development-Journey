@@ -1,0 +1,10 @@
+body {
+  background-color: darkslategray;
+  color: orange;
+  height: 100vh;
+}
+
+#background-image {
+  height: 300px;
+  background: url('./webpack-background-image.jpg') no-repeat center/cover;
+}
