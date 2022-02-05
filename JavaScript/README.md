@@ -114,23 +114,26 @@ const functionOne = (() => {})();
 
 | Property OR Method | Syntax                                              | Syntax type | Return value data type           | Use case                                       |
 | ------------------ | --------------------------------------------------- | ----------- | -------------------------------- | ---------------------------------------------- |
-| length             | `.length`                                           | property    | returns a number type.           |
+| length             | `.length`                                           | property    | returns a number type.           |                                                |
 | slice              | `.slice(start, end)`                                | method      | returns a string type.           | extracts part of a string                      |
 | substring          | `.substring(start, end)`                            | method      | returns a string type.           | extracts part of a string                      |
 | substr             | `.substr(start, length)`                            | method      | returns a string type.           | extracts part of a string                      |
-| replace            | `.replace('string to replace', 'new string value')` | method      | returns a string type.           |
-| toUpperCase        | `.toUpperCase()`                                    | method      | returns a string type.           |
-| toLowerCase        | `.toLowerCase()`                                    | method      | returns a string type.           |
+| replace            | `.replace('string to replace', 'new string value')` | method      | returns a string type.           |                                                |
+| toUpperCase        | `.toUpperCase()`                                    | method      | returns a string type.           |                                                |
+| toLowerCase        | `.toLowerCase()`                                    | method      | returns a string type.           |                                                |
 | concat             | `StringOne.concat(StringTwo, StringThree)`          | method      | returns a string type.           | combines strings                               |
-| trim               | `trim()`                                            | method      | returns a string type.           |
-| charAt             | `charAt(position)`                                  | method      | returns a character string type. |
-| charCodeAt         | `charCodeAt(position)`                              | method      | returns a number type.           |
+| trim               | `trim()`                                            | method      | returns a string type.           |                                                |
+| charAt             | `charAt(position)`                                  | method      | returns a character string type. |                                                |
+| charCodeAt         | `charCodeAt(position)`                              | method      | returns a number type.           |                                                |
 | split              | `split('character(s) to split string on')`          | method      | returns an array.                | converts a string to an array                  |
-| indexOf            | `indexOf('string text to find index of')`           | method      | returns a number type.           |
-| lastIndexOf        | `indexOf('string text to find index of')`           | method      | returns a number type.           |
-| search             | `search('string text to find index of')`            | method      | returns a number type.           |
+| indexOf            | `indexOf('string text to find index of')`           | method      | returns a number type.           |                                                |
+| lastIndexOf        | `indexOf('string text to find index of')`           | method      | returns a number type.           |                                                |
+| search             | `search('string text to find index of')`            | method      | returns a number type.           |                                                |
 | match              | `match('string text to search for')`                | method      | returns an array of matches.     | extracts matches into an array                 |
-| includes           | `includes('string to search for',)`                 | method      | returns a boolean value.         | check if the string contains a specified value |
+| includes           | `includes('string to search for',)`                 | method      | returns a boolean type value.    | check if the string contains a specified value |
+| startsWith         | `startsWith('string text to search for')`           | method      | returns a boolean type value.    |                                                |
+| endsWith           | `endsWith('string text to search for')`             | method      | returns a boolean type value.    |                                                |
+| repeat             | `repeat('how many time sthe string should repeat')` | method      | returns a string type value.     |                                                |
 
 #### `slice()`
 
@@ -194,3 +197,17 @@ const functionOne = (() => {})();
 - Returns an array of all matches.
 - Returns null if no match is found.
 - Second parameter specifies at which position to start the search.
+
+### `includes()`
+
+- Returns a boolean of true or false.
+
+### `startsWith()`
+
+- Returns a boolean of true or false.
+- Its is case sensitive.
+
+### `endsWith()`
+
+- Returns a boolean of true or false.
+- Its is case sensitive.

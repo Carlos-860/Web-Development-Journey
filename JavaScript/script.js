@@ -25,7 +25,7 @@ console.log(toFarenheit(40));
 
 let stringVariable = 'JAvaScript Basic is a very basic course';
 
-console.log(stringVariable.search(/basic/gi));
+console.log(stringVariable.split(/basic/gi));
 
 // (() => {
 //   console.log(stringVariable.substring(-1, 9));
