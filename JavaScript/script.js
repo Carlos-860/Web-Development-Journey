@@ -23,14 +23,16 @@ function toFarenheit(degreeNum) {
 }
 console.log(toFarenheit(40));
 
-let stringVariable = 'JavaScript basic is a very basic course';
+let stringVariable = 'JAvaScript Basic is a very basic course';
+
+console.log(stringVariable.search(/basic/gi));
 
 // (() => {
 //   console.log(stringVariable.substring(-1, 9));
 // })();
 
-console.log(stringVariable.replace('basic', 'FizzBuzz'));
-console.log(stringVariable.replace(/basic/gi, 'FizzBuzz'));
+// console.log(stringVariable.replace('basic', 'FizzBuzz'));
+// console.log(stringVariable.replace(/basic/gi, 'FizzBuzz'));
 
 // let array1 = 'sean'.split('');
 // let array2 = array1.reverse();

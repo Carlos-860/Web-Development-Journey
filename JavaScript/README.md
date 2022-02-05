@@ -112,21 +112,25 @@ const functionOne = (() => {})();
 - EXAMPLE
 - _`let stringVariable = 'Lorem Ipsum dol et.'`_
 
-| Property OR Method | Syntax    | Syntax type | Return value data type |
-| ------------------ | --------- | ----------- | ---------------------- |
-| length             | `.length` | property    | returns a number type. |
-
-| Property OR Method | Syntax                   | Syntax type | Return value data type |
-| ------------------ | ------------------------ | ----------- | ---------------------- |
-| slice              | `.slice(start, end)`     | method      | returns a string type. |
-| substring          | `.substring(start, end)` | method      | returns a string type. |
-| substr             | `.substr(start, length)` | method      | returns a string type. |
-
-| Property OR Method | Syntax                                              | Syntax type | Return value data type |
-| ------------------ | --------------------------------------------------- | ----------- | ---------------------- |
-| replace            | `.replace('string to replace', 'new string value')` | method      | returns a string type. |
-| toUpperCase        | `.toUpperCase()`                                    | method      | returns a string type. |
-| toLowerCase        | `.toLowerCase()`                                    | method      | returns a string type. |
+| Property OR Method | Syntax                                              | Syntax type | Return value data type           | Use case                                       |
+| ------------------ | --------------------------------------------------- | ----------- | -------------------------------- | ---------------------------------------------- |
+| length             | `.length`                                           | property    | returns a number type.           |
+| slice              | `.slice(start, end)`                                | method      | returns a string type.           | extracts part of a string                      |
+| substring          | `.substring(start, end)`                            | method      | returns a string type.           | extracts part of a string                      |
+| substr             | `.substr(start, length)`                            | method      | returns a string type.           | extracts part of a string                      |
+| replace            | `.replace('string to replace', 'new string value')` | method      | returns a string type.           |
+| toUpperCase        | `.toUpperCase()`                                    | method      | returns a string type.           |
+| toLowerCase        | `.toLowerCase()`                                    | method      | returns a string type.           |
+| concat             | `StringOne.concat(StringTwo, StringThree)`          | method      | returns a string type.           | combines strings                               |
+| trim               | `trim()`                                            | method      | returns a string type.           |
+| charAt             | `charAt(position)`                                  | method      | returns a character string type. |
+| charCodeAt         | `charCodeAt(position)`                              | method      | returns a number type.           |
+| split              | `split('character(s) to split string on')`          | method      | returns an array.                | converts a string to an array                  |
+| indexOf            | `indexOf('string text to find index of')`           | method      | returns a number type.           |
+| lastIndexOf        | `indexOf('string text to find index of')`           | method      | returns a number type.           |
+| search             | `search('string text to find index of')`            | method      | returns a number type.           |
+| match              | `match('string text to search for')`                | method      | returns an array of matches.     | extracts matches into an array                 |
+| includes           | `includes('string to search for',)`                 | method      | returns a boolean value.         | check if the string contains a specified value |
 
 #### `slice()`
 
@@ -154,3 +158,39 @@ const functionOne = (() => {})();
 - Doesn't change a string but creates a new string.
 - NOTE => Replaces only the first match.
 - Replace all mathces with regular expressions `/g` flag or case-insensitive strings with the `/i`.
+
+### `concat()`
+
+- Joins two or more strings.
+
+### `trim()`
+
+- Removes whitespace on both sides of a string.
+
+### `split()`
+
+- If the seperator is ommitted the whole string will return in index[0] of an array.
+
+### `indexOf()`
+
+- Returns the index of the first occurence of specified string.
+- If the text is not found -1 is returned.
+- Accepts a second parameter as the starting point of a search.
+- Cant take regular expressions.
+
+### `lastIndexOf()`
+
+- Returns index of the last occurence of specified string.
+- If the text is not found -1 is returned.
+- Accepts a second parameter as the starting point of a search.
+
+### `search()`
+
+- Cannot take in a second parameter.
+- Can take a regular expression.
+
+### `match()`
+
+- Returns an array of all matches.
+- Returns null if no match is found.
+- Second parameter specifies at which position to start the search.
