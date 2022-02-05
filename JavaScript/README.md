@@ -1,16 +1,6 @@
-## Buzz Words
+# JS Syntax
 
-- defined => `var y = 4;`
-- declared => `var x;`
-- assigned => `= 4`
-- invoked => something calls it
-- immediately invoked function expression (IIFE) => Runs as soon as it is defined.
-- expression => `x + y` OR `3 + 4`
-- statment => `let y = 4 + 4`
-
-## JS Syntax
-
----
+## 1. Operators
 
 ### Arithmetic Operators
 
@@ -20,9 +10,9 @@
 
 - ( `=` `+=` `-=` `*=` `/=` `%=` `**=` )
 
-|---|---|---|
-| `**=` | `x **= y`| `x = x ** y` |
-|---|---|---|
+  | Operator | Shorthand | Long syntax  |
+  | -------- | --------- | ------------ |
+  | `**=`    | `x **= y` | `x = x ** y` |
 
 ### Comparison Operators
 
@@ -41,7 +31,7 @@
 - typeof
 - instanceof
 
----
+## 2. Variables and Hoisting
 
 ### JS Identifiers / Names
 
@@ -71,7 +61,7 @@
 
 ---
 
-## Functions
+## 3. Functions
 
 ### **Arrow Function - ES6**
 
@@ -108,9 +98,6 @@ const functionOne = (() => {})();
 ---
 
 ## 4. JS Strings
-
-- EXAMPLE
-- _`let stringVariable = 'Lorem Ipsum dol et.'`_
 
 | Property OR Method | Syntax                                              | Syntax type | Return value data type           | Use case                                       |
 | ------------------ | --------------------------------------------------- | ----------- | -------------------------------- | ---------------------------------------------- |
@@ -211,3 +198,33 @@ const functionOne = (() => {})();
 
 - Returns a boolean of true or false.
 - Its is case sensitive.
+
+## 5. Number Methods
+
+- NaN => Not a number.
+- typeof NaN OR Infinity returns a number.
+
+| Property OR Method | Syntax                          | Syntax type | Return value data type       | Use case                               |
+| ------------------ | ------------------------------- | ----------- | ---------------------------- | -------------------------------------- |
+| isNaN              | `isNaN()`                       | method      | returns a boolean value      | to check if a string is a number.      |
+| toString           | `toString()`                    | method      | returns a string value       | converts a number to a string.         |
+| toExponential      | `toExponential()`               | method      | returns a string value       |                                        |
+| toFixed            | `toFixed('number of decimals')` | method      | returns a string value       | used in pricing of goods and services. |
+| toPrecision        | `toPrecision()`                 | method      | returns a string value       |                                        |
+| valueof            | `valueOf()`                     | method      | returns a number value       |                                        |
+| Number             | `Number()`                      | method      | returns a string value       | converts variables into numbers        |
+| parseInt           | `parseInt()`                    | method      | returns a whole number balue |                                        |
+| parseFloat         | `parseFloat()`                  | method      | returns a number value       |                                        |
+
+### `Number()`
+
+- Converts variables, booleans into numbers.
+- Returns NaN if the arguement cannot convert.
+
+### `parseFloat()`
+
+- Only the first number is returned inside a string.
+
+### `parseInt()`
+
+- Only the first number is returned inside a string.
