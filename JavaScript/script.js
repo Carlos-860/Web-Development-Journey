@@ -23,12 +23,15 @@ function toFarenheit(degreeNum) {
 }
 console.log(toFarenheit(40));
 
-let stringVariable = 'JavaScript Basics';
+let stringVariable = 'JavaScript basic is a very basic course';
 
-(() => {
-  console.log(stringVariable.substring(-1, 9));
-})();
+// (() => {
+//   console.log(stringVariable.substring(-1, 9));
+// })();
 
-let array1 = 'sean'.split('');
-let array2 = array1.reverse();
-debugger;
+console.log(stringVariable.replace('basic', 'FizzBuzz'));
+console.log(stringVariable.replace(/basic/gi, 'FizzBuzz'));
+
+// let array1 = 'sean'.split('');
+// let array2 = array1.reverse();
+// debugger;

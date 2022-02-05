@@ -112,29 +112,45 @@ const functionOne = (() => {})();
 - EXAMPLE
 - _`let stringVariable = 'Lorem Ipsum dol et.'`_
 
-|---|---|---|---|
-|length|`.length`|property|returns a number type.|
-|slice|`.slice(start, end)`|method|| retruns a string.|
+| Property OR Method | Syntax    | Syntax type | Return value data type |
+| ------------------ | --------- | ----------- | ---------------------- |
+| length             | `.length` | property    | returns a number type. |
 
-### String Properties
+| Property OR Method | Syntax                   | Syntax type | Return value data type |
+| ------------------ | ------------------------ | ----------- | ---------------------- |
+| slice              | `.slice(start, end)`     | method      | returns a string type. |
+| substring          | `.substring(start, end)` | method      | returns a string type. |
+| substr             | `.substr(start, length)` | method      | returns a string type. |
 
-- `.length` property => returns a number type.
-
-### String Methods
+| Property OR Method | Syntax                                              | Syntax type | Return value data type |
+| ------------------ | --------------------------------------------------- | ----------- | ---------------------- |
+| replace            | `.replace('string to replace', 'new string value')` | method      | returns a string type. |
+| toUpperCase        | `.toUpperCase()`                                    | method      | returns a string type. |
+| toLowerCase        | `.toLowerCase()`                                    | method      | returns a string type. |
 
 #### `slice()`
 
-- `slice(start, end)` method => **returns** an extracted part of a string in **string type**.
-- eg. stringVariable.slice(1,4)
-  // 'ore'
-
-- NOTE => if end argument is omitted the rest of the string is extracted.
-- NOTE => if start arguement is negative the position is counted from the end of the string.
+- Returns an extracted string.
+- Last parameter ommited results in the rest of the string being extracted.
+- NOTE => If start paramater is negative the position is counted from the end of the string.
 
 #### `substring()`
 
-- `substring(start, end)` method => **returns** an extracted part of a string in **string type**.
-- eg. stringVariable.slice(1,4)
-  // 'ore'
+- Returns an extracted string.
+- Last parameter ommited results in the rest of the string being extracted.
+- NOTE => Cannot accept negative values.
 
-- NOTE => cannot accept negative indexes.
+### `substr()`
+
+- Returns an extracted string.
+- Last parameter ommited results in the rest of the string being extracted.
+- NOTE => If start parameter is negative the position is counted from the end of the string.
+
+<!--- Insert next table here -->
+
+### `replace()`
+
+- Replaces a specified value with another value in a string.
+- Doesn't change a string but creates a new string.
+- NOTE => Replaces only the first match.
+- Replace all mathces with regular expressions `/g` flag or case-insensitive strings with the `/i`.
