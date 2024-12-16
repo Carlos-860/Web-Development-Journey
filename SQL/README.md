@@ -96,3 +96,84 @@ SELECT *
 FROM table_name
 WHERE NOT condition
 ```
+
+### How to Insert records into a table?
+
+```sql
+INSERT INTO table_name
+VALUES ('value_1', 'value_2', '...')
+```
+
+### How to Insert multiple records into a table?
+
+```sql
+INSERT INTO table_name
+VALUES ('value_1', 'value_2', '...'),
+VALUES ('value_1', 'value_2', '...'),
+VALUES ('value_1', 'value_2', '...')
+```
+
+### How to Select all values in a table based off values being null?
+
+```sql
+SELECT (column_1, column_2, ...)
+FROM table_name
+WHERE colummn_name IS NULL
+```
+### How to Select all values in a table based off values not being null?
+
+```sql
+SELECT (column_1, column_2, ...)
+FROM table_name
+WHERE colummn_name IS NOT NULL
+```
+
+### How to Update existing record in a table?
+
+```sql
+UPDATE table_name
+SET column_1 = value_1, column_2 = value_2, ...
+WHERE condition
+```
+
+### How to Delete existing record in a table?
+
+```sql
+DELETE FROM table_name
+WHERE condition
+```
+
+### How to Delete all records in table?
+
+```sql
+DELETE FROM table_name
+```
+
+### How to Delete a table?
+
+```sql
+DROP Table table_name
+```
+
+### How to Select the Top 1000 records from a table?
+
+```sql
+SELECT TOP number|percent column_name(s) 
+FROM table_name
+WHERE condition; -- SQL Server Syntax
+```
+
+```sql
+SELECT column_name(s) 
+FROM table_name
+WHERE condition 
+LIMIT number; -- MySQL Syntax
+```
+
+
+
+## Resources
+
+https://sqliteonline.com/ SQL Online IDE
+https://www.programiz.com/sql/online-compiler/ Online SQL Editor
+https://www.w3schools.com/sql/default.asp SQL Tutorial from w3schools
