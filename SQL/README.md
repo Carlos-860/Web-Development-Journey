@@ -54,7 +54,7 @@ WHERE condition
 ```sql
 SELECT *
 FROM table_name
-WHERE condition_1 BETWEEN condition_2
+WHERE column_name BETWEEN value1 AND value2
 ```
 
 ### How to Check if a record/row value matches specific values in a list?
@@ -170,6 +170,115 @@ WHERE condition
 LIMIT number; -- MySQL Syntax
 ```
 
+## SQL Aggregate Functions
+
+### How to Select the minumum value based on a selected column in a table?
+
+```sql
+SELECT MIN(column_name)
+FROM table_name
+WHERE condition;
+```
+
+### How to Select the maximum value based on a selected column in a table?
+
+```sql
+SELECT MAX(column_name)
+FROM table_name
+WHERE condition;
+```
+
+### How to ensure the returned column has a descriptive name (Alias)?
+
+```sql
+SELECT MIN(clomun_name) AS [alias_name]
+FROM table_name;
+```
+
+### How to return the minumum value based on a category?
+
+```sql
+SELECT MIN(column_name)
+FROM table_name
+GROUP BY column_name;
+```
+
+### How to return the maximum value based on a category?
+
+```sql
+SELECT MAX(column_name)
+FROM table_name
+GROUP BY column_name;
+```
+
+### How to return the number of rows that match a specifed condition?
+
+```sql
+SELECT COUNT(column_name)
+FROM table_name
+WHERE condition;
+```
+
+```sql
+SELECT COUNT(*)
+FROM table_name
+WHERE condition;
+```
+
+### How to return the number of rows that match a specified condition ignoring duplicates?
+
+```sql
+SELECT COUNT (DISTINCT column_name)
+FROM table_name;
+```
+
+### How to return the number of rows based on a category?
+
+```sql
+SELECT COUNT(column_name), column_name...
+FROM table_name
+GROUP BY column_name;
+```
+
+### How to return the sum of a numeric column?
+
+```sql
+SELECT SUM(column_name)
+FROM table_name
+WHERE condition;
+```
+
+### How to return the sum of a numeric column based on a category?
+
+```sql
+SELECT SUM(column_name), column_name...
+FROM table_name
+GROUP BY column_name
+```
+
+### How to return the average value of a numeric column?
+
+```sql
+SELECT AVG(column_name)
+FROM table_name
+WHERE condition;
+```
+
+### How to return the average value of a numeric column based on a category?
+
+```sql
+SELECT AVG(column_name), column_name...
+FROM table_name
+GROUP BY column_name
+```
+
+### How to select all rows where the column value starts with specified pattern?
+
+```sql
+SELECT column1,column2, ...
+FROM table_name
+WHERE columnN LIKE pattern
+```
 
 
 ## Resources
@@ -177,3 +286,6 @@ LIMIT number; -- MySQL Syntax
 https://sqliteonline.com/ SQL Online IDE
 https://www.programiz.com/sql/online-compiler/ Online SQL Editor
 https://www.w3schools.com/sql/default.asp SQL Tutorial from w3schools
+
+Youtube videos
+MYSQL Tutorial - https://www.youtube.com/playlist?list=PLZPZq0r_RZOMskz6MdsMOgxzheIyjo-BZ
